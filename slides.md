@@ -11,7 +11,7 @@
 
 ----------------------------------------
 
-# 2 Corinthians 11:18-30
+## 2 Corinthians 11:18-30
 
 1. Charlatans (v18-21)
 2. Credentials (v22)
