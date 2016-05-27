@@ -3,6 +3,7 @@
 # Boast of My Weakness
 ## II Corinthians 11:18-30
 [boast-of-weakness.seanho.com](http://boast-of-weakness.seanho.com/)
+
 ([PDF 16:9](http://boast-of-weakness.seanho.com/boast-of-weakness-16_9.pdf),
 [4:3](http://boast-of-weakness.seanho.com/boast-of-weakness-4_3.pdf))
 
@@ -13,8 +14,8 @@
 
 ## 2 Corinthians 11:18-30
 
-1. Charlatans (v18-21)
-2. Credentials (v22)
+1. Charlatans (v18-21a)
+2. Credentials (v21b-22)
 3. Crises (v23-27)
 4. Concern (v28-30)
 
@@ -26,7 +27,12 @@ Since many are boasting in the way the world does, I too will boast.
 
 You gladly put up with fools since you are so wise! 
 
-In fact, you even put up with anyone who enslaves you or exploits you or takes advantage of you or puts on airs or slaps you in the face. 
+In fact, you even put up with anyone who
+enslaves you
+or exploits you
+or takes advantage of you
+or puts on airs
+or slaps you in the face. 
 
 To my shame I admit that we were too weak for that!
 
