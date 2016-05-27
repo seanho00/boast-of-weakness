@@ -14,7 +14,28 @@
 
 ----------------------------------------
 
-## 2 Corinthians 11:18-30
+## Threats to the Church (ch10-12)
+* ch10:
+  + v1-6: **fight** not according to flesh
+  + v7-11: apostolic **authority** for building up
+  + v12-18: **measure** by God's canon
+* ch11a:
+  + v1-6: corrupted away from **simple devotion**
+  + v7-11: kept self **unburdensome**
+  + v12-15: **masquerading** as apostles
+* ch11b (v16-31): **boast** of my weakness
+* ch12a:
+  + v1-4: visions of **heaven**
+  + v5-10: power perfected in **weakness**
+* ch12b (v11-21): as a **parent** to own children
+
+>>>
+High-level outline of ch10-12, the last major threat to the church
+addressed by Paul in 2Cor: **false apostles** (charlatans).
+
+----------------------------------------
+
+## Boast of My Weakness (2Cor11)
 
 ### 1. **Charlatans** (v18-21a)
 ### 2. **Credentials** (v21b-22)
@@ -23,7 +44,7 @@
 
 ----------------------------------------
 
-## 2 Corinthians 11:18-21a
+## 2 Corinthians 11:18-21a (NIV)
 
 Since many are **boasting** in the way the world does, <br/>
 **I too** will boast. 
@@ -40,16 +61,19 @@ To my shame I admit that we were too **weak** for that!
 
 ## 1a. Charlatans (20)
 
-* "**Enslaves**":
-  + To legalism, human authority
-* "**Exploits**" *(eat, swallow)*:
-  + Consume / exhaust Corinthians' resources / money
-* "**Takes advantage**" *(take)*:
-  + Capture as in a net, trick (cf 12:16)
-* "**Puts on airs**" *(take up)*:
-  + Elevate self
-* "**Slaps in face**" *(strike)*:
-  + Deride, insult, humiliate
+* "**Enslaves**"
+* "**Exploits**" *(eat, swallow)*
+* "**Takes advantage**" *(take)*
+* "**Puts on airs**" *(take up)*
+* "**Slaps in face**" *(strike)*
+
+>>>
+
++ **Enslaves**: to legalism, human authority
++ **Exploits**: consume resources/money (cf widows)
++ **Takes**: capture in net, trick (12:16)
++ **Airs**: elevates self
++ **Slaps**: deride, insult, humiliate
 
 ----------------------------------------
 
@@ -61,6 +85,12 @@ To my shame I admit that we were too **weak** for that!
   + Endure, accept, do not censure
 * "**Gladly**":
   + With pleasure, desire, sensual delight
+
+>>>
++ personality cult
+  + e.g., Jobs
+  + 1Cor1:12-13 Paul, Apollo, etc.
+  + e.g., mom+son following me
 
 ----------------------------------------
 
@@ -79,7 +109,7 @@ To my shame I admit that we were too **weak** for that!
 
 ----------------------------------------
 
-## 2 Corinthians 11:21b-22
+## 2 Corinthians 11:21b-22 (NIV)
 
 Whatever anyone else **dares** to boast about -- <br/>
 I am speaking as a **fool** -- <br/>
@@ -88,6 +118,12 @@ I am speaking as a **fool** -- <br/>
 Are they **Hebrews**? So am I. <br/>
 Are they **Israelites**? So am I. <br/>
 Are they **Abraham’s descendants**? So am I. 
+
+>>>
+*dare*: bold, brash, unashamed
++ Paul knows boasting is foolishness
+  + 12:1 no profit
+  + 11:16 don't deem him to be a fool
 
 ----------------------------------------
 
@@ -101,9 +137,14 @@ Are they **Abraham’s descendants**? So am I.
 * "Abraham's descendants": **Messianic right**
   + Preserving hope of eternal inheritance
 
+>>>
++ Deflate prestige of charlatans
+  + 12:11 no less, but also nothing
++ (Jam1:9-10 poor/rich boast in high/low)
+
 ----------------------------------------
 
-## Philippians 3:4b-7
+## Philippians 3:4b-7 (NIV)
 
 If someone else thinks they have reasons <br/>
 to put **confidence** in the flesh, I have **more**:
@@ -119,7 +160,7 @@ I now consider **loss** for the sake of Christ.
 
 ----------------------------------------
 
-## 2 Corinthians 11:23
+## 2 Corinthians 11:23 (NIV)
 
 Are they **servants** of Christ? <br/>
 (I am out of my mind to talk like this.) I am **more**.
@@ -129,9 +170,18 @@ been in **prison** more frequently, <br/>
 been **flogged** more severely, <br/>
 and been exposed to **death** again and again. 
 
+>>>
++ **Exceeds** the charlatans
+  + **not** servants of Christ, but of Satan (11:15)
+  + not about **degrees** of being a servant
++ Outline of following:
+  + 24-25 Beatings
+  + 26 Danger of death
+  + 27 Toil
+
 ----------------------------------------
 
-## 2 Corinthians 11:24-25
+## 2 Corinthians 11:24-25 (NIV)
 
 **Five** times I received from the Jews <br/>
 the forty **lashes** minus one. <br/>
@@ -143,9 +193,13 @@ I spent a night and a day in the open **sea**,
 
 I have been constantly on the **move**.
 
+>>>
++ Beatings and floggings
++ "Not what Paul has **done**, but what he has **bourne** (Robertson)
+
 ----------------------------------------
 
-## 2 Corinthians 11:26-27
+## 2 Corinthians 11:26-27 (NIV)
 
 I have been in danger from **rivers**, in danger from **bandits**, <br/>
 in danger from my fellow **Jews**, in danger from **Gentiles**; <br/>
@@ -158,13 +212,27 @@ I have known **hunger** and **thirst** <br/>
 and have often gone without **food**; <br/>
 I have been **cold** and **naked**. 
 
+>>>
++ Dangers
++ Toil
++ Not for guilt-trip, thanks, or admiration
+  + Approval comes from God (10:18), not man
+  + Normal Christian life
+
 ----------------------------------------
 
 ## 3. Crises
 
+>>>
++ Different from typical Chinese whining:
++ Not sufferings overcome by **own** strength
++ But own **frailty**, inability to overcome
+  + Glory goes to **God**, not self
++ 1Co1:26-31 boast in the Lord
+
 ----------------------------------------
 
-## 2 Corinthians 11:28-30
+## 2 Corinthians 11:28-30 (NIV)
 
 Besides everything else, <br/>
 I face daily the pressure of my **concern** for all the churches.
@@ -178,4 +246,16 @@ I will boast of the things that show my **weakness**.
 ----------------------------------------
 
 ## 4. Concern
+
+>>>
++ boasting in Corinthians not foolish
+  + 12:6 speak truth
+  + 10:14 reach Corinthians
+  + 10:8 build up not tear down
++ boast of Christ's work
+  + Rom15:17-19 Christ's work
+  + 1Th2:19-20 you, our crown
+  + 2Co1:12-14 you are our boast
++ 2:2-5 boast only in cross: weakness
+  + Gal6:14 only in cross
 
