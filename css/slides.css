@@ -11,7 +11,7 @@ section[data-background-image] {
 
 /* Slide Text */
 .reveal section strong, .reveal section b {
-  text-color: yellow;
+  color: yellow;
 }
 
 /* Titles / headers */
