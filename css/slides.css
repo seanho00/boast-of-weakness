@@ -38,12 +38,12 @@ section[data-background-image] {
 /* Persistent header/footer */
 .slides .header, .slides .footer {
   position: absolute;
-  left: -50%;
+  left: 0;
   font-size: 60%;
 }
 .slides .header {
-  top: -50%;
+  top: 0;
 }
 .slides .footer {
-  bottom: 50%;
+  bottom: 0;
 }
