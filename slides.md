@@ -23,7 +23,7 @@
 
 ----------------------------------------
 
-## 1. (2Cor 11:18-21a)
+## 2 Corinthians 11:18-21a
 
 Since many are **boasting** in the way the world does, <br/>
 **I too** will boast. 
