@@ -34,3 +34,16 @@ section[data-background-image] {
 .reveal section .imgbox img {
   border: none;
 }
+
+/* Persistent header/footer */
+.slides .header, .slides .footer {
+  position: absolute;
+  left: -50%;
+  font-size: 60%;
+}
+.slides .header {
+  top: -50%;
+}
+.slides .footer {
+  bottom: 50%;
+}
