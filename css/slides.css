@@ -9,8 +9,11 @@ section[data-background-image] {
   background-color: rgba(0,0,0,0.80);
 }
 
-.reveal section h2 {
+/* Titles / headers */
+.reveal section h1, .reveal section h2 {
   text-transform: capitalize;
+}
+.reveal section h2 {
   margin-bottom: 2rem;
 }
 .reveal section h2:after {
@@ -21,6 +24,7 @@ section[data-background-image] {
   border-bottom: 1px solid;
 }
 
+/* Flexbox layout for images */
 .imgbox {
   width: 100%;
   display: flex;
@@ -35,7 +39,7 @@ section[data-background-image] {
   border: none;
 }
 
-/* Persistent header/footer */
+/* Common slide header/footer */
 .slides .header, .slides .footer {
   position: absolute;
   left: 0;
