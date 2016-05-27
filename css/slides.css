@@ -9,6 +9,11 @@ section[data-background-image] {
   background-color: rgba(0,0,0,0.80);
 }
 
+/* Slide Text */
+.reveal section strong, .reveal section b {
+  text-color: yellow;
+}
+
 /* Titles / headers */
 .reveal section h1, .reveal section h2 {
   text-transform: capitalize;
