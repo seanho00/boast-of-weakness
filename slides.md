@@ -16,14 +16,14 @@
 
 ## 2 Corinthians 11:18-30
 
-1. Charlatans (v18-20)
-2. Credentials (v21-22)
+1. Charlatans (v18-21a)
+2. Credentials (v21b-22)
 3. Crises (v23-27)
 4. Concern (v28-30)
 
 ----------------------------------------
 
-## 1. Charlatans (v18-20)
+## 1. Charlatans (18-21a)
 
 Since many are boasting in the way the world does, <br/>
 I too will boast. 
@@ -38,28 +38,38 @@ To my shame I admit that we were too weak for that!
 
 ----------------------------------------
 
-## 1a. False Apostles (v20)
+## 1a. False Apostles (20)
 
-* "Enslaves": to legalism, human authority
-* "Exploits" *(eat, swallow)*: consume/exhaust resources/money
-* "Takes advantage" *(take)*: capture as in a net, trick (cf 12:16)
-* "Puts on airs" *(take up)*: elevate self
-* "Slaps in face" *(strike)*: deride, insult, humiliate
-
-----------------------------------------
-
-## 1b. You (Corinthians) (v19)
-
-* "You are so wise!": priding yourself on your good judgment
-* "Put up with fools": endure, accept, do not censure
-* "Gladly": with pleasure, desire, sensual delight
+* "Enslaves":
+  + To legalism, human authority
+* "Exploits" *(eat, swallow)*:
+  + Consume / exhaust Corinthians' resources / money
+* "Takes advantage" *(take)*:
+  + Capture as in a net, trick (cf 12:16)
+* "Puts on airs" *(take up)*:
+  + Elevate self
+* "Slaps in face" *(strike)*:
+  + Deride, insult, humiliate
 
 ----------------------------------------
 
-## 1c. I (Paul) (v18, 21)
+## 1b. You (Corinthians) (19)
 
-* "To my shame" *(dishonour)*: with irony; Corinthians were ashamed of Paul
-* "We were too weak": introduces the content of his boast in v23-28
+* "You are so wise!":
+  + Priding yourself on your good judgment
+* "Put up with fools":
+  + Endure, accept, do not censure
+* "Gladly":
+  + With pleasure, desire, sensual delight
+
+----------------------------------------
+
+## 1c. I (Paul) (18, 21a)
+
+* "To my shame" *(dishonour)*:
+  + With irony; Corinthians were ashamed of Paul
+* "We were too weak":
+  + Introducing the content of his boast (v23-28)
 * "Boasting in the way the world does":
   + According to flesh: out of selfish pride
   + Corinthians were impressed by the boasting
@@ -69,7 +79,7 @@ To my shame I admit that we were too weak for that!
 
 ----------------------------------------
 
-## 2. Credentials (v21-22)
+## 2. Credentials (21b-22)
 
 Whatever anyone else dares to boast about -- <br/>
 I am speaking as a fool -- <br/>
@@ -81,7 +91,7 @@ Are they Abraham’s descendants? So am I.
 
 ----------------------------------------
 
-## 3. Crises (v23-25)
+## 3. Crises (23-25)
 
 Are they servants of Christ? <br/>
 (I am out of my mind to talk like this.) I am more.
@@ -96,7 +106,9 @@ once I was pelted with stones, <br/>
 three times I was shipwrecked, <br/>
 I spent a night and a day in the open sea, 
 
-## 3. Crises (v26-27)
+----------------------------------------
+
+## 3. Crises (26-27)
 
 I have been constantly on the move. <br/>
 I have been in danger from rivers, in danger from bandits, <br/>
@@ -110,7 +122,7 @@ I have been cold and naked.
 
 ----------------------------------------
 
-## 4. Concern (v28-30)
+## 4. Concern (28-30)
 
 Besides everything else, <br/>
 I face daily the pressure of my concern for all the churches.
