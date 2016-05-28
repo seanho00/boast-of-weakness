@@ -64,6 +64,8 @@ Brother Sunday next week
 
 ## Boast of My Weakness (2Cor11b)
 
+| . | . |
+| --- | --- |
 | **Charlatans** | 18-21a |
 | **Credentials** | 21b-22 |
 | **Crises** | 23-27 |
