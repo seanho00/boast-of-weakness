@@ -26,6 +26,7 @@ High-level outline of ch10-12, the last major threat to the church
 addressed by Paul in 2Cor: **boastful false apostles**.
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/Rembrandt_Man_in_Armour.jpg" -->
 
 ## The Spiritual Battleground (2Cor10)
 * "Corinth and Beyond"
@@ -38,6 +39,7 @@ Pastor Arthur's sermon from two weeks ago:
 missions focus, armor of God
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Lost Your First Love (2Cor11a)
 * "What Impresses You?"
@@ -51,6 +53,7 @@ get away from personality cults / celebrities,
 get back to a simple devotion to Christ
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 ## My Grace Is Sufficient (2Cor12)
 * 1-4: Visions of **heaven**
@@ -108,11 +111,18 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 ## 1a. They: Charlatans (20)
 
+<div class="imgbox">
+<div>
+
 * "**Enslaves**" (e.g., to legalism, Gal4:9)
 * "**Exploits**" *(eat, swallow)* (c.f. Mk12:40)
 * "**Takes advantage**" *(take)* (c.f. 2Cor12:16)
 * "**Puts on airs**" *(raise up)* (c.f. 2Cor10:5)
 * "**Slaps in face**" *(strike)*
+
+</div>
+<div>![José de Madrazo, Jesús en casa de Anás](img/Madrazo-Jesus_in_Annas_House.jpg)</div>
+</div>
 
 >>>
 
@@ -126,9 +136,14 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 ## 1b. You: Corinthians (19)
 
+<div class="imgbox">
+<div>
 * "You are so **wise**!": pride in own judgment
 * "**Put up** with fools": failure to restrain
 * "**Gladly**": with pleasure, delight
+</div>
+<div>![Gandhara Buddha, Tokyo National Museum](img/Gandhara_Buddha.jpg)</div>
+</div>
 
 >>>
 1. Priding yourself on your good judgment
@@ -137,29 +152,102 @@ To my shame I admit that we were too **weak** for that! <br/>
 3. Delight in this acceptance
   + See doctrinal liberality as a virtue
   + Everyone has a voice
-+ personality cult
-  + e.g., Jobs
-  + 1Cor1:12-13 Paul, Apollo, etc.
-  + e.g., mom+son following me
 
 ----------------------------------------
 
-## 1c. I: Christ's servant (18, 21a)
+## 1c. We: Christ's servants (18, 21a)
 
-* "To my **shame**": Corinthians ashamed of Paul
-* "We were too **weak**": c.f. his boasts in v23-28!
+<div class="imgbox">
+<div>
+* "To my **shame**": (irony!)
+* "We were too **weak**": c.f. v23-28
 * "Boasting in the way the **world** does":
-  + According to **flesh**: out of selfish pride
-* "**I too** will boast": but not in the same way
-  + Content of his boasts is **weakness**!
+  + According to **flesh**
+* "**I too** will boast":
+  + But not in the same way: he boasts about **weakness**!
+</div>
+<div>[![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)[(https://commons.wikimedia.org/wiki/File:Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop%3F),_c._1657.jpg)</div>
+</div>
 
 >>>
-1. Dishonour (with irony)
-2. Alluding to the content of his boast (v23-28)
+1. Dishonour: Corinthians ashamed of Paul
+2. Alluding to the content of his boast
 3. Corinthians were **impressed** by the boasting
 * Paul is not **stooping** to their level, but
   + **Deflating** their claims, in order to
   + Bring the Corinthians back to **simple devotion** to Christ
+
+----------------------------------------
+
+## 1. Charlatans (18-21a)
+
+<span style="color:#17ff2e">
+Since many are **boasting** in the way the world does, <br/>
+**I too** will boast.
+</span>
+
+<span style="#1b91ff">
+You gladly **put up** with fools since you are so **wise**! <br/>
+[You: Corinthians]
+</span>
+
+<span style="#1b91ff">
+In fact, you even put up with anyone 
+</span>
+<span style="#ff2c2d">
+who **enslaves** you <br/>
+or **exploits** you or **takes advantage** of you <br/>
+or puts on **airs** or **slaps** you in the face. <br/>
+[They: Charlatans]
+</span>
+
+<span style="color:#17ff2e">
+To my shame I admit that we were too **weak** for that! <br/>
+[We: Christ's servants]
+</span>
+
+>>>
++ Review pt1:
+  + They proudly **abuse** you
+  + You **endure** it and even delight in your liberality
+  + We will **deflate** the illusion
+    + our boast is our **weakness**
++ personality cult
+  + e.g., Jobs
+  + e.g., mom+son following me
+  + 1Cor1:12-13 Paul, Apollo, etc.
+  + e.g., JMS
+
+----------------------------------------
+
+## Providence (JMS)
+
+<div class="imgbox">
+<div>
+For further reading:
+* [Apologetics Index](http://www.apologeticsindex.org/416-jung-myung-seok)
+* [A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)
+* [JMSCult](http://jmscult.com/)
+</div>
+<div>![JMS, from their own website](img/jungmyungseok.png)</div>
+</div>
+
+>>>
+Jung Myung Seok (Joshua)
++ splinter from Unification church ("Moonies")
++ numerology arguing as Messiah
++ "always smile": life is good, hardship is only mental
++ Love Principle: Eve fell due to sex; women redeemed via sex w/JMS
+  + in jail in Korea since 2009, 3 counts rape (100s of accusations)
+
+----------------------------------------
+
+## Boast of My Weakness (2Cor11b)
+
+1. *Charlatans* (v18-21a)
+2. **Credentials** (v21b-22)
+3. *Crises* (v23-27)
+4. *Concern* (v28-30)
 
 ----------------------------------------
 
@@ -183,13 +271,13 @@ Are they **Abraham’s descendants**? So am I.
 
 ## 2. Credentials
 
-* Paul **matches** the false apostles' boasting:
+* Paul **matches** the charlatans' credentials:
 * "Hebrews": **nationality**
-  + Preserving language / culture
+  + Preserve language / culture
 * "Israelites": **theocracy**
-  + Preserving covenant with God
+  + Preserve covenant with God
 * "Abraham's descendants": **Messianic right**
-  + Preserving hope of eternal inheritance
+  + Preserve hope of eternal inheritance
 
 >>>
 + Deflate prestige of charlatans
@@ -214,6 +302,15 @@ I now consider **loss** for the sake of Christ.
 
 ----------------------------------------
 
+## Boast of My Weakness (2Cor11b)
+
+1. *Charlatans* (v18-21a)
+2. *Credentials* (v21b-22)
+3. **Crises** (v23-27)
+4. *Concern* (v28-30)
+
+----------------------------------------
+
 ## 2 Corinthians 11:23 (NIV)
 
 Are they **servants** of Christ? <br/>
@@ -235,7 +332,7 @@ and been exposed to **death** again and again.
 
 ----------------------------------------
 
-## 2 Corinthians 11:24-25 (NIV)
+## Beatings 11:24-25 (NIV)
 
 **Five** times I received from the Jews <br/>
 the forty **lashes** minus one. <br/>
@@ -253,7 +350,7 @@ I have been constantly on the **move**.
 
 ----------------------------------------
 
-## 2 Corinthians 11:26-27 (NIV)
+## Danger and Toil 11:26-27 (NIV)
 
 I have been in danger from **rivers**, in danger from **bandits**, <br/>
 in danger from my fellow **Jews**, in danger from **Gentiles**; <br/>
@@ -282,7 +379,40 @@ I have been **cold** and **naked**.
 + Not sufferings overcome by **own** strength
 + But own **frailty**, inability to overcome
   + Glory goes to **God**, not self
-+ 1Co1:26-31 boast in the Lord
+
+----------------------------------------
+
+## 1 Corinthians 1:26-29 (NIV)
+God chose the **foolish** things of the world <br/>
+to shame the **wise**; <br/>
+God chose the **weak** things of the world <br/>
+to shame the strong.
+
+God chose the **lowly** things of this world <br/>
+and the **despised** things -- <br/>
+and the things that are **not** -- <br/>
+to nullify the things that **are**,
+
+that **no one** may boast before him.
+
+----------------------------------------
+
+## 1 Corinthians 1:26-29 (NIV)
+It is because of him that you are in **Christ Jesus**, <br/>
+who has become for us **wisdom** from God -- <br/>
+that is, our **righteousness**, **holiness** and **redemption**.
+
+Therefore, as it is written: <br/>
+“Let the one who boasts **boast in the Lord**.”
+
+----------------------------------------
+
+## Boast of My Weakness (2Cor11b)
+
+1. *Charlatans* (v18-21a)
+2. *Credentials* (v21b-22)
+3. *Crises* (v23-27)
+4. **Concern** (v28-30)
 
 ----------------------------------------
 
