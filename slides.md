@@ -39,7 +39,7 @@ Pastor Arthur's sermon from two weeks ago:
 missions focus, armor of God
 
 ----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
 
 ## Lost Your First Love (2Cor11a)
 * "What Impresses You?"
@@ -64,6 +64,7 @@ get back to a simple devotion to Christ
 Brother Sunday next week
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Boast of My Weakness (2Cor11b)
 
@@ -114,10 +115,14 @@ To my shame I admit that we were too **weak** for that! <br/>
 <div class="imgbox">
 <div>
 
-* "**Enslaves**" (e.g., to legalism, Gal4:9)
-* "**Exploits**" *(eat, swallow)* (c.f. Mk12:40)
-* "**Takes advantage**" *(take)* (c.f. 2Cor12:16)
-* "**Puts on airs**" *(raise up)* (c.f. 2Cor10:5)
+* "**Enslaves**"
+  + e.g., to legalism, Gal4:9
+* "**Exploits**" *(eat, swallow)*
+  + c.f. Mk12:40
+* "**Takes advantage**" *(take)*
+  + c.f. 2Cor12:16
+* "**Puts on airs**" *(raise up)*
+  + c.f. 2Cor10:5
 * "**Slaps in face**" *(strike)*
 
 </div>
@@ -138,8 +143,10 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 <div class="imgbox">
 <div>
-* "You are so **wise**!": pride in own judgment
-* "**Put up** with fools": failure to restrain
+* "You are so **wise**!"
+  + pride in own judgment
+* "**Put up** with fools"
+  + failure to restrain
 * "**Gladly**": with pleasure, delight
 </div>
 <div>![Gandhara Buddha, Tokyo National Museum](img/Gandhara_Buddha.jpg)</div>
@@ -152,6 +159,7 @@ To my shame I admit that we were too **weak** for that! <br/>
 3. Delight in this acceptance
   + See doctrinal liberality as a virtue
   + Everyone has a voice
+* (img: Buddha, 1st c. AD, Tokyo National Museum)
 
 ----------------------------------------
 
@@ -161,12 +169,13 @@ To my shame I admit that we were too **weak** for that! <br/>
 <div>
 * "To my **shame**": (irony!)
 * "We were too **weak**": c.f. v23-28
-* "Boasting in the way the **world** does":
+* "Boasting [as] the **world** does":
   + According to **flesh**
 * "**I too** will boast":
   + But not in the same way: he boasts about **weakness**!
+
 </div>
-<div>[![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)[(https://commons.wikimedia.org/wiki/File:Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop%3F),_c._1657.jpg)</div>
+<div>[![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)](https://commons.wikimedia.org/wiki/File:Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop%3F),_c._1657.jpg)</div>
 </div>
 
 >>>
@@ -186,15 +195,15 @@ Since many are **boasting** in the way the world does, <br/>
 **I too** will boast.
 </span>
 
-<span style="#1b91ff">
+<span style="color:#1b91ff">
 You gladly **put up** with fools since you are so **wise**! <br/>
 [You: Corinthians]
 </span>
 
-<span style="#1b91ff">
+<span style="color:#1b91ff">
 In fact, you even put up with anyone 
 </span>
-<span style="#ff2c2d">
+<span style="color:#ff2c2d">
 who **enslaves** you <br/>
 or **exploits** you or **takes advantage** of you <br/>
 or puts on **airs** or **slaps** you in the face. <br/>
@@ -241,6 +250,7 @@ Jung Myung Seok (Joshua)
   + in jail in Korea since 2009, 3 counts rape (100s of accusations)
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Boast of My Weakness (2Cor11b)
 
@@ -301,6 +311,7 @@ But whatever were **gains** to me <br/>
 I now consider **loss** for the sake of Christ.
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Boast of My Weakness (2Cor11b)
 
@@ -406,6 +417,7 @@ Therefore, as it is written: <br/>
 “Let the one who boasts **boast in the Lord**.”
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Boast of My Weakness (2Cor11b)
 
