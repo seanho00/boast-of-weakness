@@ -17,8 +17,9 @@
 ## Threat of the Charlatans
 * ch10: The Spiritual **Battleground**
 * ch11a: Lost Your **First Love**
-* ch11b: **Boast** of My Weakness
-* ch12a: My **Grace** Is Sufficient
+* ch11b: Paul's Boast: Weakness in Ministry
+* ch12a: Paul's Boast: Spiritual Weakness:
+  + My **Grace** Is Sufficient
 * ch12b: As **Parents** for Their Own Children
 
 >>>
@@ -36,7 +37,8 @@ addressed by Paul in 2Cor: **boastful false apostles**.
 
 >>>
 Pastor Arthur's sermon from two weeks ago:
-missions focus, armor of God
+* missions focus, armor of God
+* letters weighty || in person unimpressive
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
@@ -56,8 +58,11 @@ get back to a simple devotion to Christ
 <!-- .slide: data-background-image="img/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 ## My Grace Is Sufficient (2Cor12)
-* 1-4: Visions of **heaven**
-  + 5-10: Power perfected in **weakness**
+* 1-4: **Pride** in God's revelation
+  + Visions of heaven
+* 5-8: **Humbled** by God's hand
+  + Thorn in the flesh
+* 9-10: Power perfected in **weakness**
 * 11-21: As **parents** for their own children
 
 >>>
@@ -72,6 +77,17 @@ Brother Sunday next week
 2. **Credentials** (v21b-22)
 3. **Crises** (v23-27)
 4. **Concern** (v28-30)
+
+>>>
+Outline for today
+1. Threat is boastful false apostles
+  + And Corinthians' complacency
+2. Paul meets their credentials, to deflate them
+  + Show Corinthians not to be impressed by credentials
+3. Paul exceeds them, not in strength but weakness
+  + Normal Christian life is full of hardship and suffering
+4. Burden not only physical, also spiritual + emotional
+  + Paul's concern as a father to his children
 
 ----------------------------------------
 
@@ -250,6 +266,12 @@ Jung Myung Seok (Joshua)
 + "always smile": life is good, hardship is only mental
 + Love Principle: Eve fell due to sex; women redeemed via sex w/JMS
   + in jail in Korea since 2009, 3 counts rape (100s of accusations)
+  + "religious injustice", "persecuted Christians"
+
+----------------------------------------
+<!-- .slide: class="Q" -->
+
+### Are you **passive** when you see **false teachers**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -318,6 +340,19 @@ I now consider **loss** for the sake of Christ.
 
 >>>
 v8: count as rubbish (skubalon): horse poop!
+
+----------------------------------------
+
+## Dr. John Sung
+
+>>>
++ threw diplomas overboard
+  + except Ph.D., for dad's sake
+
+----------------------------------------
+<!-- .slide: class="Q" -->
+
+### Do you trust teachers because of their **credentials**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -400,6 +435,27 @@ I have been **cold** and **naked**.
   + Normal Christian life
 
 ----------------------------------------
+
+## I Have Decided to Follow Jesus
+
+<div class="imgbox">
+<div>![Garo village](img/garo.jpg)</div>
+<div>![map of Assam](img/assam.jpg)</div>
+<div>![Sadhu Sundar Singh](img/sadhu_sundar_singh.jpg)</div>
+</div>
+
+>>>
++ story passed through oral tradition, details lost
++ Garo tribe, Assam region, NE India (E of Bangladesh)
+  + formerly head-hunters
++ Welsh or English missionaries, at great personal cost
+  + first family in village to come to Christ
++ two sons + wife slain before him, then he was killed
++ put to music by Singh, travelling evangelist in India
+  + gospel of Christ, culture of India
+  + Yellow robe of the sadhu (ascetic holy man)
+
+----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
 
 ## 1 Corinthians 1:26-29 (NIV)
@@ -424,13 +480,19 @@ that **no one** may boast before him.
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
 
-## 1 Corinthians 1:26-29 (NIV)
+## 1 Corinthians 1:30-31 (NIV)
 It is because of him that you are in **Christ Jesus**, <br/>
 who has become for us **wisdom** from God -- <br/>
 that is, our **righteousness**, **holiness** and **redemption**.
 
 Therefore, as it is written: <br/>
 “Let the one who boasts **boast in the Lord**.”
+
+----------------------------------------
+<!-- .slide: class="Q" -->
+
+### Do you draw others to Christ through your **success**
+### or through your **frailty**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
