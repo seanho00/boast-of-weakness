@@ -44,7 +44,7 @@ Pastor Arthur's sermon from two weeks ago:
 <!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
 
 ## Lost Your First Love (2Cor11a)
-* Pastor Phil: "What Impresses You?"
+* Pastor Phil, "What Impresses You?"
 * 1-6 (You): corrupted away from **simple devotion**
 * 7-11 (We): kept ourselves **unburdensome**
 * 12-15 (They): **masquerading** as apostles
@@ -270,10 +270,10 @@ Jung Myung Seok (Joshua)
   + "religious injustice", "persecuted Christians"
 
 ----------------------------------------
-<!-- .slide: data-background="white" -->
+<!-- .slide: class="Q" data-background="white" -->
 
-### Are you **passive**
-### when you see **false teachers**?
+# Are you **passive**
+# when you see **false teachers**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->

@@ -10,17 +10,16 @@ section[data-background-image] {
 }
 
 /* Slide Text */
-.reveal section strong, .reveal section b {
+.reveal section strong {
   color: yellow;
+}
+.reveal section.has-light-background strong {
+  color: #e20606;
 }
 
 /* Special theme for review/application questions */
 .reveal section.Q * {
-  color: black;
   text-transform: none;
-}
-.reveal section.Q strong {
-  color: yellow;
 }
 
 /* Titles / headers */
