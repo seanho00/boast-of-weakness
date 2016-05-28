@@ -62,12 +62,13 @@ Brother Sunday next week
 
 ----------------------------------------
 
-## Boast of My Weakness (2Cor11)
+## Boast of My Weakness (2Cor11b)
 
-1. **Charlatans** (v18-21a)
-2. **Credentials** (v21b-22)
-3. **Crises** (v23-27)
-4. **Concern** (v28-30)
+| --- | --- |
+| **Charlatans** | 18-21a |
+| **Credentials** | 21b-22 |
+| **Crises** | 23-27 |
+| **Concern** | 28-30 |
 
 ----------------------------------------
 
@@ -101,39 +102,42 @@ or puts on **airs** or **slaps** you in the face. <br/>
 To my shame I admit that we were too **weak** for that! <br/>
 </span>
 <span class="fragment" style="color:#17ff2e" data-fragment-index="3">
-[I: Christ's servant]
+[We: Christ's servants]
 </span>
 
 ----------------------------------------
 
 ## 1a. They: Charlatans (20)
 
-* "**Enslaves**"
-* "**Exploits**" *(eat, swallow)*
-* "**Takes advantage**" *(take)*
-* "**Puts on airs**" *(take up)*
+* "**Enslaves**" (e.g., to legalism, Gal4:9)
+* "**Exploits**" *(eat, swallow)* (c.f. Mk12:40)
+* "**Takes advantage**" *(take)* (c.f. 2Cor12:16)
+* "**Puts on airs**" *(raise up)* (c.f. 2Cor10:5)
 * "**Slaps in face**" *(strike)*
 
 >>>
 
-+ **Enslaves**: to legalism, human authority
-+ **Exploits**: consume resources/money (cf widows)
-+ **Takes**: capture in net, trick (12:16)
-+ **Airs**: elevates self
-+ **Slaps**: deride, insult, humiliate
+1. to legalism, human authority
+2. consume resources/money (cf widows)
+3. capture in net, trick (12:16)
+4. elevates self
+5. deride, insult, humiliate
 
 ----------------------------------------
 
 ## 1b. You: Corinthians (19)
 
-* "You are so **wise**!":
-  + Priding yourself on your good judgment
-* "**Put up** with fools":
-  + Endure, accept, do not censure
-* "**Gladly**":
-  + With pleasure, desire, sensual delight
+* "You are so **wise**!": pride in own judgment
+* "**Put up** with fools": failure to restrain
+* "**Gladly**": with pleasure, delight
 
 >>>
+1. Priding yourself on your good judgment
+2. Endure, accept, fail to censure: inaction
+  + Jam4:16-17, boast in arrogance; does not do the right
+3. Delight in this acceptance
+  + See doctrinal liberality as a virtue
+  + Everyone has a voice
 + personality cult
   + e.g., Jobs
   + 1Cor1:12-13 Paul, Apollo, etc.
@@ -143,13 +147,17 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 ## 1c. I: Christ's servant (18, 21a)
 
-* "To my **shame**" *(dishonour)*:
-  + With irony; the Corinthians were ashamed of Paul
-* "We were too **weak**":
-  + Alluding to the content of his boast (v23-28)
+* "To my **shame**": Corinthians ashamed of Paul
+* "We were too **weak**": c.f. his boasts in v23-28!
 * "Boasting in the way the **world** does":
   + According to **flesh**: out of selfish pride
-  + Corinthians were **impressed** by the boasting
+* "**I too** will boast": but not in the same way
+  + Content of his boasts is **weakness**!
+
+>>>
+1. Dishonour (with irony)
+2. Alluding to the content of his boast (v23-28)
+3. Corinthians were **impressed** by the boasting
 * Paul is not **stooping** to their level, but
   + **Deflating** their claims, in order to
   + Bring the Corinthians back to **simple devotion** to Christ
