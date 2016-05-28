@@ -14,7 +14,7 @@
 
 ----------------------------------------
 
-## Threat of the Charlatans (2Cor10-12)
+## Threat of the Charlatans
 * ch10: The Spiritual **Battleground**
 * ch11a: Lost Your **First Love**
 * ch11b: **Boast** of My Weakness
@@ -27,8 +27,8 @@ addressed by Paul in 2Cor: **boastful false apostles**.
 
 ----------------------------------------
 
-## Corinth and Beyond (2Cor10)
-* The Spiritual **Battleground**
+## The Spiritual Battleground (2Cor10)
+* "Corinth and Beyond"
 * 1-6: We **fight** not according to flesh
 * 7-11: Apostolic **authority** for building up
 * 12-18: **Measured** by God's canon
@@ -39,7 +39,8 @@ missions focus, armor of God
 
 ----------------------------------------
 
-## What Impresses You? (2Cor11a)
+## Lost Your First Love (2Cor11a)
+* "What Impresses You?"
 * 1-6 (You): corrupted away from **simple devotion**
 * 7-11 (We): kept ourselves **unburdensome**
 * 12-15 (They): **masquerading** as apostles
@@ -64,10 +65,10 @@ Brother Sunday next week
 ## Boast of My Weakness (2Cor11)
 
 <div style="font-size:150%">
-1. **Charlatans** (v18-21a)
-2. **Credentials** (v21b-22)
-3. **Crises** (v23-27)
-4. **Concern** (v28-30)
+1. &rArr; **Charlatans** (v18-21a)
+2. &rArr; **Credentials** (v21b-22)
+3. &rArr; **Crises** (v23-27)
+4. &rArr; **Concern** (v28-30)
 </div>
 
 ----------------------------------------
