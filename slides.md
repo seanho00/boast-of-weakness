@@ -55,25 +55,26 @@ Since many are **boasting** in the way the world does, <br/>
 <span class="fragment highlight-blue" data-fragment-index="2">
 You gladly **put up** with fools since you are so **wise**! <br/>
 </span>
-<span class="fragment blue" data-fragment-index="2">
+<span class="fragment" style="color:blue" data-fragment-index="2">
 [Corinthians]
 </span>
 
 <span class="fragment highlight-blue" data-fragment-index="2">
-In fact, you even put up with anyone who **enslaves** you<br/>
+In fact, you even put up with anyone 
 </span>
 <span class="fragment highlight-red" data-fragment-index="1">
-or **exploits** you or **takes advantage** of you<br/>
+who **enslaves** you <br/>
+or **exploits** you or **takes advantage** of you <br/>
 or puts on **airs** or **slaps** you in the face. <br/>
 </span>
-<span class="fragment red" data-fragment-index="1">
+<span class="fragment" style="color:red" data-fragment-index="1">
 [Charlatans]
 </span>
 
 <span class="fragment highlight-green" data-fragment-index="3">
 To my shame I admit that we were too **weak** for that! <br/>
 </span>
-<span class="fragment green" data-fragment-index="3">
+<span class="fragment" style="color:green" data-fragment-index="3">
 [Christ's servant]
 </span>
 
