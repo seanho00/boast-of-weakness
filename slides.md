@@ -14,24 +14,25 @@
 
 ----------------------------------------
 
-## Threats to the Church (ch10-12)
-* ch10:
-  + v1-6: **fight** not according to flesh
-  + v7-11: apostolic **authority** for building up
-  + v12-18: **measure** by God's canon
-* ch11a:
-  + v1-6: corrupted away from **simple devotion**
-  + v7-11: kept self **unburdensome**
-  + v12-15: **masquerading** as apostles
-* ch11b (v16-31): **boast** of my weakness
-* ch12a:
-  + v1-4: visions of **heaven**
-  + v5-10: power perfected in **weakness**
-* ch12b (v11-21): as a **parent** to own children
+## Threat of False Apostles (ch10-12)
+* 10:1-6, We **fight** not according to flesh
+  + 7-11, Apostolic **authority** for building up
+  + 12-18, **Measured** by God's canon
+* 11:1-6, You: corrupted away from **simple devotion**
+  + 7-11, We: kept ourselves **unburdensome**
+  + 12-15, They: **masquerading** as apostles
+* 11:16-31, **Boast** of My Weakness
+* 12:1-4, Visions of **heaven**
+  + 5-10, Power perfected in **weakness**
+* 12:11-21, As **parents** for their own children
 
 >>>
 High-level outline of ch10-12, the last major threat to the church
 addressed by Paul in 2Cor: **false apostles** (charlatans).
+
+* ch10 (Arthur): "Corinth and Beyond"
+* ch11a (Phil): "What Impresses You?"
+* ch12a (Sunday)
 
 ----------------------------------------
 
@@ -56,6 +57,29 @@ or **exploits** you or **takes advantage** of you<br/>
 or puts on **airs** or **slaps** you in the face. 
 
 To my shame I admit that we were too **weak** for that!
+
+----------------------------------------
+
+## 2 Corinthians 11:18-21a (NIV)
+
+<span class="fragment highlight-blue">
+Since many are **boasting** in the way the world does, <br/>
+**I too** will boast.
+</span>
+
+<span class="fragment highlight-green">
+You gladly **put up** with fools since you are so **wise**! 
+
+In fact, you even put up with anyone who **enslaves** you<br/>
+</span>
+<span class="fragment highlight-red">
+or **exploits** you or **takes advantage** of you<br/>
+or puts on **airs** or **slaps** you in the face. 
+</span>
+
+<span class="fragment highlight-blue">
+To my shame I admit that we were too **weak** for that!
+</span>
 
 ----------------------------------------
 
