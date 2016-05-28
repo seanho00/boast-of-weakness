@@ -268,10 +268,12 @@ Jung Myung Seok (Joshua)
 Whatever anyone else **dares** to boast about -- <br/>
 I am speaking as a **fool** -- <br/>
 **I also** dare to boast about.
+<!-- .element: class="fragment-highlight-blue" -->
 
 Are they **Hebrews**? So am I. <br/>
 Are they **Israelites**? So am I. <br/>
 Are they **Abraham’s descendants**? So am I. 
+<!-- .element: class="fragment-highlight-green" -->
 
 >>>
 *dare*: bold, brash, unashamed
@@ -280,6 +282,7 @@ Are they **Abraham’s descendants**? So am I.
   + 11:16 don't deem him to be a fool
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/Moyse-Le_grand_Sanhedrin.jpg" -->
 
 ## 2. Credentials
 
@@ -297,6 +300,7 @@ Are they **Abraham’s descendants**? So am I.
 + (Jam1:9-10 poor/rich boast in high/low)
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/Majestic-Stallion.jpg" -->
 
 ## Philippians 3:4b-7 (NIV)
 
@@ -312,6 +316,9 @@ as for **righteousness** based on the law, faultless.
 But whatever were **gains** to me <br/>
 I now consider **loss** for the sake of Christ.
 
+>>>
+v8: count as rubbish (skubalon): horse poop!
+
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
@@ -324,15 +331,22 @@ I now consider **loss** for the sake of Christ.
 
 ----------------------------------------
 
-## 2 Corinthians 11:23 (NIV)
+## Crises 11:23 (NIV)
 
 Are they **servants** of Christ? <br/>
 (I am out of my mind to talk like this.) I am **more**.
 
-I have **worked** much harder, <br/>
-been in **prison** more frequently, <br/>
-been **flogged** more severely, <br/>
+I have **worked** much harder,
+<!-- .element: class="fragment-highlight-blue" data-fragment-index="3" -->
+
+been in **prison** more frequently,
+<!-- .element: class="fragment-highlight-red" data-fragment-index="1" -->
+
+been **flogged** more severely,
+<!-- .element: class="fragment-highlight-red" data-fragment-index="1" -->
+
 and been exposed to **death** again and again. 
+<!-- .element: class="fragment-highlight-green" data-fragment-index="2" -->
 
 >>>
 + **Exceeds** the charlatans
@@ -344,6 +358,7 @@ and been exposed to **death** again and again.
   + 27 Toil
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
 
 ## Beatings 11:24-25 (NIV)
 
@@ -362,6 +377,7 @@ I have been constantly on the **move**.
 + "Not what Paul has **done**, but what he has **bourne** (Robertson)
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 
 ## Danger and Toil 11:26-27 (NIV)
 
@@ -369,31 +385,22 @@ I have been in danger from **rivers**, in danger from **bandits**, <br/>
 in danger from my fellow **Jews**, in danger from **Gentiles**; <br/>
 in danger in the **city**, in danger in the **country**, <br/>
 in danger at **sea**; and in danger from **false believers**.
+<!-- .element: class="fragment-highlight-green" data-fragment-index="1" -->
 
 I have **labored** and **toiled** <br/>
 and have often gone without **sleep**; <br/>
 I have known **hunger** and **thirst** <br/>
 and have often gone without **food**; <br/>
 I have been **cold** and **naked**. 
+<!-- .element: class="fragment-highlight-blue" data-fragment-index="2" -->
 
 >>>
-+ Dangers
-+ Toil
 + Not for guilt-trip, thanks, or admiration
   + Approval comes from God (10:18), not man
   + Normal Christian life
 
 ----------------------------------------
-
-## 3. Crises
-
->>>
-+ Different from typical Chinese whining:
-+ Not sufferings overcome by **own** strength
-+ But own **frailty**, inability to overcome
-  + Glory goes to **God**, not self
-
-----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
 
 ## 1 Corinthians 1:26-29 (NIV)
 God chose the **foolish** things of the world <br/>
@@ -408,7 +415,14 @@ to nullify the things that **are**,
 
 that **no one** may boast before him.
 
+>>>
++ Different from typical Chinese whining:
++ Not sufferings overcome by **own** strength
++ But own **frailty**, inability to overcome
+  + Glory goes to **God**, not self
+
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
 
 ## 1 Corinthians 1:26-29 (NIV)
 It is because of him that you are in **Christ Jesus**, <br/>
@@ -434,16 +448,31 @@ Therefore, as it is written: <br/>
 
 Besides everything else, <br/>
 I face daily the pressure of my **concern** for all the churches.
+<!-- .element: class="fragment-highlight-green" data-fragment-index="1" -->
 
 Who is **weak**, and I do not feel **weak**? <br/>
 Who is led into **sin**, and I do not inwardly **burn**?
+<!-- .element: class="fragment-highlight-green" data-fragment-index="1" -->
 
 If I must boast, <br/>
 I will boast of the things that show my **weakness**.
+<!-- .element: class="fragment-highlight-blue" data-fragment-index="2" -->
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
-## 4. Concern
+## 1 Corinthians 2:2-5 (NIV)
+For I resolved to know **nothing** while I was with you <br/>
+except **Jesus Christ** and him **crucified**. 
+
+I came to you in **weakness** with great **fear** and trembling. 
+
+My message and my preaching were <br/>
+not with wise and **persuasive words**, <br/>
+but with a demonstration of the **Spirit’s power**, 
+
+so that your faith might not rest on **human wisdom**, <br/>
+but on **God’s power**.
 
 >>>
 + boasting in Corinthians not foolish
