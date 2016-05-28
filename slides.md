@@ -64,12 +64,10 @@ Brother Sunday next week
 
 ## Boast of My Weakness (2Cor11)
 
-<div style="font-size:150%">
-1. &rArr; **Charlatans** (v18-21a)
-2. &rArr; **Credentials** (v21b-22)
-3. &rArr; **Crises** (v23-27)
-4. &rArr; **Concern** (v28-30)
-</div>
+1. **Charlatans** (v18-21a)
+2. **Credentials** (v21b-22)
+3. **Crises** (v23-27)
+4. **Concern** (v28-30)
 
 ----------------------------------------
 
