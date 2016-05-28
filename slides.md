@@ -14,34 +14,61 @@
 
 ----------------------------------------
 
-## Threat of False Apostles (ch10-12)
-* 10:1-6, We **fight** not according to flesh
-  + 7-11, Apostolic **authority** for building up
-  + 12-18, **Measured** by God's canon
-* 11:1-6, You: corrupted away from **simple devotion**
-  + 7-11, We: kept ourselves **unburdensome**
-  + 12-15, They: **masquerading** as apostles
-* 11:16-31, **Boast** of My Weakness
-* 12:1-4, Visions of **heaven**
-  + 5-10, Power perfected in **weakness**
-* 12:11-21, As **parents** for their own children
+## Threat of the Charlatans (2Cor10-12)
+* ch10: The Spiritual **Battleground**
+* ch11a: Lost Your **First Love**
+* ch11b: **Boast** of My Weakness
+* ch12a: My **Grace** Is Sufficient
+* ch12b: As **Parents** for Their Own Children
 
 >>>
 High-level outline of ch10-12, the last major threat to the church
-addressed by Paul in 2Cor: **false apostles** (charlatans).
+addressed by Paul in 2Cor: **boastful false apostles**.
 
-* ch10 (Arthur): "Corinth and Beyond"
-* ch11a (Phil): "What Impresses You?"
-* ch12a (Sunday)
+----------------------------------------
+
+## Corinth and Beyond (2Cor10)
+* The Spiritual **Battleground**
+* 1-6: We **fight** not according to flesh
+* 7-11: Apostolic **authority** for building up
+* 12-18: **Measured** by God's canon
+
+>>>
+Pastor Arthur's sermon from two weeks ago:
+missions focus, armor of God
+
+----------------------------------------
+
+## What Impresses You? (2Cor11a)
+* 1-6 (You): corrupted away from **simple devotion**
+* 7-11 (We): kept ourselves **unburdensome**
+* 12-15 (They): **masquerading** as apostles
+
+>>>
+Pastor Phil's sermon from last week:
+get away from personality cults / celebrities,
+get back to a simple devotion to Christ
+
+----------------------------------------
+
+## My Grace Is Sufficient (2Cor12)
+* 1-4: Visions of **heaven**
+  + 5-10: Power perfected in **weakness**
+* 11-21: As **parents** for their own children
+
+>>>
+Brother Sunday next week
 
 ----------------------------------------
 
 ## Boast of My Weakness (2Cor11)
 
-### 1. **Charlatans** (v18-21a)
-### 2. **Credentials** (v21b-22)
-### 3. **Crises** (v23-27)
-### 4. **Concern** (v28-30)
+<div style="font-size:150%">
+1. **Charlatans** (v18-21a)
+2. **Credentials** (v21b-22)
+3. **Crises** (v23-27)
+4. **Concern** (v28-30)
+</div>
 
 ----------------------------------------
 
@@ -55,8 +82,8 @@ Since many are **boasting** in the way the world does, <br/>
 <span class="fragment highlight-blue" data-fragment-index="2">
 You gladly **put up** with fools since you are so **wise**! <br/>
 </span>
-<span class="fragment" style="color:blue" data-fragment-index="2">
-[Corinthians]
+<span class="fragment" style="color:#1b91ff" data-fragment-index="2">
+[You: Corinthians]
 </span>
 
 <span class="fragment highlight-blue" data-fragment-index="2">
@@ -67,15 +94,15 @@ who **enslaves** you <br/>
 or **exploits** you or **takes advantage** of you <br/>
 or puts on **airs** or **slaps** you in the face. <br/>
 </span>
-<span class="fragment" style="color:red" data-fragment-index="1">
-[Charlatans]
+<span class="fragment" style="color:#ff2c2d" data-fragment-index="1">
+[They: Charlatans]
 </span>
 
 <span class="fragment highlight-green" data-fragment-index="3">
 To my shame I admit that we were too **weak** for that! <br/>
 </span>
-<span class="fragment" style="color:green" data-fragment-index="3">
-[Christ's servant]
+<span class="fragment" style="color:#17ff2e" data-fragment-index="3">
+[I: Christ's servant]
 </span>
 
 ----------------------------------------
