@@ -272,8 +272,9 @@ Jung Myung Seok (Joshua)
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Are you **passive**
-# when you see **false teachers**?
+# Q: Are you **passive**
+# when you see
+# **false teachers**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -352,9 +353,11 @@ v8: count as rubbish (skubalon): horse poop!
   + except Ph.D., for dad's sake
 
 ----------------------------------------
-<!-- .slide: class="Q" -->
+<!-- .slide: class="Q" data-background="white" -->
 
-### Do you trust teachers because of their **credentials**?
+# Q: Do you trust
+# teachers because of
+# their **credentials**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -441,7 +444,7 @@ I have been **cold** and **naked**.
 ## I Have Decided to Follow Jesus
 
 <div class="imgbox">
-<div>![map of Assam](img/assam.jpg)</div>
+<div>![map of Assam](img/assam.png)</div>
 <div>![Sadhu Sundar Singh](img/sadhu_sundar_singh.jpg)</div>
 </div>
 
@@ -490,10 +493,12 @@ Therefore, as it is written: <br/>
 “Let the one who boasts **boast in the Lord**.”
 
 ----------------------------------------
-<!-- .slide: class="Q" -->
+<!-- .slide: class="Q" data-background="white" -->
 
-### Do you draw others to Christ through your **success**
-### or through your **frailty**?
+# Q: Do you draw others
+# to Christ through
+# your **success**
+# or your **frailty**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
