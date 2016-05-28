@@ -17,7 +17,7 @@
 ## Threat of the Charlatans
 * ch10: The Spiritual **Battleground**
 * ch11a: Lost Your **First Love**
-* ch11b: Paul's Boast: Weakness in Ministry
+* ch11b: Paul's Boast: **Weakness** in Ministry
 * ch12a: Paul's Boast: Spiritual Weakness:
   + My **Grace** Is Sufficient
 * ch12b: As **Parents** for Their Own Children
@@ -30,7 +30,7 @@ addressed by Paul in 2Cor: **boastful false apostles**.
 <!-- .slide: data-background-image="img/Rembrandt_Man_in_Armour.jpg" -->
 
 ## The Spiritual Battleground (2Cor10)
-* "Corinth and Beyond"
+* Pastor Arthur, "Corinth and Beyond"
 * 1-6: We **fight** not according to flesh
 * 7-11: Apostolic **authority** for building up
 * 12-18: **Measured** by God's canon
@@ -44,7 +44,7 @@ Pastor Arthur's sermon from two weeks ago:
 <!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
 
 ## Lost Your First Love (2Cor11a)
-* "What Impresses You?"
+* Pastor Phil: "What Impresses You?"
 * 1-6 (You): corrupted away from **simple devotion**
 * 7-11 (We): kept ourselves **unburdensome**
 * 12-15 (They): **masquerading** as apostles
@@ -58,6 +58,7 @@ get back to a simple devotion to Christ
 <!-- .slide: data-background-image="img/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 ## My Grace Is Sufficient (2Cor12)
+* Brother Sunday (next week)
 * 1-4: **Pride** in God's revelation
   + Visions of heaven
 * 5-8: **Humbled** by God's hand
@@ -269,9 +270,10 @@ Jung Myung Seok (Joshua)
   + "religious injustice", "persecuted Christians"
 
 ----------------------------------------
-<!-- .slide: class="Q" -->
+<!-- .slide: data-background="white" -->
 
-### Are you **passive** when you see **false teachers**?
+### Are you **passive**
+### when you see **false teachers**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -439,7 +441,6 @@ I have been **cold** and **naked**.
 ## I Have Decided to Follow Jesus
 
 <div class="imgbox">
-<div>![Garo village](img/garo.jpg)</div>
 <div>![map of Assam](img/assam.jpg)</div>
 <div>![Sadhu Sundar Singh](img/sadhu_sundar_singh.jpg)</div>
 </div>
@@ -519,6 +520,13 @@ Who is led into **sin**, and I do not inwardly **burn**?
 If I must boast, <br/>
 I will boast of the things that show my **weakness**.
 <!-- .element: class="fragment-highlight-blue" data-fragment-index="2" -->
+
+>>>
++ weak: 1Cor12:25-26 parts of body
++ sin (stumble, offense):
+  + Mk14:27, Ro9:32-33 offense at Christ
++ burn: consumed w/emotion
+  + (1Cor7:9 w/passion)
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->

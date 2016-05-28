@@ -14,6 +14,15 @@ section[data-background-image] {
   color: yellow;
 }
 
+/* Special theme for review/application questions */
+.reveal section.Q * {
+  color: black;
+  text-transform: none;
+}
+.reveal section.Q strong {
+  color: yellow;
+}
+
 /* Titles / headers */
 .reveal section h1, .reveal section h2 {
   text-transform: capitalize;
