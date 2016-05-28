@@ -35,10 +35,14 @@ addressed by Paul in 2Cor: **boastful false apostles**.
 <!-- .slide: data-background-image="img/Rembrandt_Man_in_Armour.jpg" -->
 
 ## The Spiritual Battleground (2Cor10)
-* Pastor Arthur, "Corinth and Beyond"
-* 1-6: We **fight** not according to flesh
-* 7-11: Apostolic **authority** for building up
-* 12-18: **Measured** by God's canon
+* Pastor Arthur, 
+  "<span style="color:#1b91ff">Corinth and Beyond</span>"
+* <span style="color:#1b91ff">1-6:</span>
+  We **fight** not according to flesh
+* <span style="color:#1b91ff">7-11:</span>
+  Apostolic **authority** for building up
+* <span style="color:#1b91ff">12-18:</span>
+  **Measured** by God's canon
 
 >>>
 Pastor Arthur's sermon from two weeks ago:
@@ -49,10 +53,14 @@ Pastor Arthur's sermon from two weeks ago:
 <!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
 
 ## Lost Your First Love (2Cor11a)
-* Pastor Phil, "What Impresses You?"
-* 1-6 (You): corrupted away from **simple devotion**
-* 7-11 (We): kept ourselves **unburdensome**
-* 12-15 (They): **masquerading** as apostles
+* Pastor Phil, 
+  "<span style="color:#1b91ff">What Impresses You?</span>"
+* <span style="color:#1b91ff">1-6</span> (You):
+  corrupted away from **simple devotion**
+* <span style="color:#1b91ff">7-11:</span> (We):
+  kept ourselves **unburdensome**
+* <span style="color:#1b91ff">12-15:</span> (They):
+  **masquerading** as apostles
 
 >>>
 Pastor Phil's sermon from last week:
@@ -64,12 +72,16 @@ get back to a simple devotion to Christ
 
 ## My Grace Is Sufficient (2Cor12)
 * Brother Sunday (next week)
-* 1-4: **Pride** in God's revelation
+* <span style="color:#1b91ff">1-4:</span>
+  **Pride** in God's revelation
   + Visions of heaven
-* 5-8: **Humbled** by God's hand
+* <span style="color:#1b91ff">5-8:</span>
+  **Humbled** by God's hand
   + Thorn in the flesh
-* 9-10: Power perfected in **weakness**
-* 11-21: As **parents** for their own children
+* <span style="color:#1b91ff">9-10:</span>
+  Power perfected in **weakness**
+* <span style="color:#1b91ff">11-21:</span>
+  As **parents** for their own children
 
 >>>
 Brother Sunday next week
@@ -79,10 +91,14 @@ Brother Sunday next week
 
 ## Boast of My Weakness (2Cor11b)
 
-1. **Charlatans** (v18-21a)
-2. **Credentials** (v21b-22)
-3. **Crises** (v23-27)
-4. **Concern** (v28-30)
+1. **Charlatans**
+  <span style="color:#1b91ff">(v18-21a)</span>
+2. **Credentials** 
+  <span style="color:#1b91ff">(v21b-22)</span>
+3. **Crises** 
+  <span style="color:#1b91ff">(v23-27)</span>
+4. **Concern** 
+  <span style="color:#1b91ff">(v28-30)</span>
 
 >>>
 Outline for today
@@ -285,7 +301,8 @@ Jung Myung Seok (Joshua)
 ## Boast of My Weakness (2Cor11b)
 
 1. *Charlatans* (v18-21a)
-2. **Credentials** (v21b-22)
+2. **Credentials** 
+  <span style="color:#1b91ff">(v21b-22)</span>
 3. *Crises* (v23-27)
 4. *Concern* (v28-30)
 
@@ -351,7 +368,7 @@ v8: count as rubbish (skubalon): horse poop!
 
 ## Dr. John Sung
 
-<div class="imgbox"
+<div class="imgbox">
 <div>![John Sung](img/john_sung.jpg)</div>
 <div>![Bethel Evangelistic Band](img/john_sung-Bethel_Evangelistic_Band.jpg)</div>
 </div>
@@ -364,6 +381,8 @@ v8: count as rubbish (skubalon): horse poop!
   + where he read Bible 40x
 + returning to China, threw diplomas overboard
   + except Ph.D., for dad's sake
++ cofounded Little Flock (Local Church) with Watchman Nee
+  + with now has its own controversy
 
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
@@ -379,7 +398,8 @@ v8: count as rubbish (skubalon): horse poop!
 
 1. *Charlatans* (v18-21a)
 2. *Credentials* (v21b-22)
-3. **Crises** (v23-27)
+3. **Crises** 
+  <span style="color:#1b91ff">(v23-27)</span>
 4. *Concern* (v28-30)
 
 ----------------------------------------
@@ -389,17 +409,21 @@ v8: count as rubbish (skubalon): horse poop!
 Are they **servants** of Christ? <br/>
 (I am out of my mind to talk like this.) I am **more**.
 
+<span class="fragment highlight-blue" data-fragment-index="3">
 I have **worked** much harder,
-<!-- .element: class="fragment-highlight-blue" data-fragment-index="3" -->
+</span>
 
+<span class="fragment highlight-red" data-fragment-index="1">
 been in **prison** more frequently,
-<!-- .element: class="fragment-highlight-red" data-fragment-index="1" -->
+</span>
 
+<span class="fragment highlight-red" data-fragment-index="1">
 been **flogged** more severely,
-<!-- .element: class="fragment-highlight-red" data-fragment-index="1" -->
+</span>
 
+<span class="fragment highlight-green" data-fragment-index="2">
 and been exposed to **death** again and again. 
-<!-- .element: class="fragment-highlight-green" data-fragment-index="2" -->
+</span>
 
 >>>
 + **Exceeds** the charlatans
@@ -434,18 +458,20 @@ I have been constantly on the **move**.
 
 ## Danger and Toil 11:26-27 (NIV)
 
+<span class="fragment highlight-green" data-fragment-index="1">
 I have been in danger from **rivers**, in danger from **bandits**, <br/>
 in danger from my fellow **Jews**, in danger from **Gentiles**; <br/>
 in danger in the **city**, in danger in the **country**, <br/>
 in danger at **sea**; and in danger from **false believers**.
-<!-- .element: class="fragment-highlight-green" data-fragment-index="1" -->
+</span>
 
+<span class="fragment highlight-blue" data-fragment-index="2">
 I have **labored** and **toiled** <br/>
 and have often gone without **sleep**; <br/>
 I have known **hunger** and **thirst** <br/>
 and have often gone without **food**; <br/>
 I have been **cold** and **naked**. 
-<!-- .element: class="fragment-highlight-blue" data-fragment-index="2" -->
+</span>
 
 >>>
 + Not for guilt-trip, thanks, or admiration
@@ -508,10 +534,7 @@ Therefore, as it is written: <br/>
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: Do you draw others
-# to Christ through
-# your **success**
-# or your **frailty**?
+# Q: Do you draw others <br/> to Christ through <br/> your **success** <br/> or your **frailty**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -521,23 +544,27 @@ Therefore, as it is written: <br/>
 1. *Charlatans* (v18-21a)
 2. *Credentials* (v21b-22)
 3. *Crises* (v23-27)
-4. **Concern** (v28-30)
+4. **Concern** 
+  <span style="color:#1b91ff">(v28-30)</span>
 
 ----------------------------------------
 
 ## 2 Corinthians 11:28-30 (NIV)
 
+<span class="fragment highlight-green" data-fragment-index="1">
 Besides everything else, <br/>
 I face daily the pressure of my **concern** for all the churches.
-<!-- .element: class="fragment-highlight-green" data-fragment-index="1" -->
+</span>
 
+<span class="fragment highlight-green" data-fragment-index="1">
 Who is **weak**, and I do not feel **weak**? <br/>
 Who is led into **sin**, and I do not inwardly **burn**?
-<!-- .element: class="fragment-highlight-green" data-fragment-index="1" -->
+</span>
 
+<span class="fragment highlight-blue" data-fragment-index="2">
 If I must boast, <br/>
 I will boast of the things that show my **weakness**.
-<!-- .element: class="fragment-highlight-blue" data-fragment-index="2" -->
+</span>
 
 >>>
 + weak: 1Cor12:25-26 parts of body
