@@ -15,12 +15,17 @@
 ----------------------------------------
 
 ## Threat of the Charlatans
-* ch10: The Spiritual **Battleground**
-* ch11a: Lost Your **First Love**
-* ch11b: Paul's Boast: **Weakness** in Ministry
-* ch12a: Paul's Boast: Spiritual Weakness:
+* <span style="color:#1b91ff">ch10:</span>
+  The Spiritual **Battleground**
+* <span style="color:#1b91ff">ch11a:</span>
+  Lost Your **First Love**
+* <span style="color:#1b91ff">ch11b:</span>
+  Paul's Boast: **Weakness** in Ministry
+* <span style="color:#1b91ff">ch12a:</span>
+  Paul's Boast: Spiritual Weakness:
   + My **Grace** Is Sufficient
-* ch12b: As **Parents** for Their Own Children
+* <span style="color:#1b91ff">ch12b:</span>
+  As **Parents** for Their Own Children
 
 >>>
 High-level outline of ch10-12, the last major threat to the church
@@ -272,9 +277,7 @@ Jung Myung Seok (Joshua)
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: Are you **passive**
-# when you see
-# **false teachers**?
+# Q: Are you **passive** <br/> when you see <br/> **false teachers**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -312,11 +315,11 @@ Are they **Abraham’s descendants**? So am I.
 ## 2. Credentials
 
 * Paul **matches** the charlatans' credentials:
-* "<span style="color:#1b91ff">Hebrews</span>": **nationality**
+* "<span style="color:#17ff2e">Hebrews</span>": **nationality**
   + Preserve language / culture
-* "<span style="color:#1b91ff">Israelites</span>": **theocracy**
+* "<span style="color:#17ff2e">Israelites</span>": **theocracy**
   + Preserve covenant with God
-* "<span style="color:#1b91ff">Abraham's descendants</span>": **Messianic right**
+* "<span style="color:#17ff2e">Abraham's descendants</span>": **Messianic right**
   + Preserve hope of eternal inheritance
 
 >>>
@@ -348,8 +351,18 @@ v8: count as rubbish (skubalon): horse poop!
 
 ## Dr. John Sung
 
+<div class="imgbox"
+<div>![John Sung](img/john_sung.jpg)</div>
+<div>![Bethel Evangelistic Band](img/john_sung-Bethel_Evangelistic_Band.jpg)</div>
+</div>
+
 >>>
-+ threw diplomas overboard
++ b. China, Methodist family
++ Ohio for undergrad + Ph.D. chemistry, in 5yrs
++ personal revival at seminary
+  + confined to asylum for half year
+  + where he read Bible 40x
++ returning to China, threw diplomas overboard
   + except Ph.D., for dad's sake
 
 ----------------------------------------

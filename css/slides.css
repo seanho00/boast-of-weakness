@@ -1,12 +1,12 @@
 /* Shading background images */
 @media print {
   section[data-background-image] .slide-background {
-    background-color: rgba(0,0,0,0.80);
+    background-color: rgba(0,0,0,0.85);
     background-blend-mode: overlay;
   }
 }
 section[data-background-image] {
-  background-color: rgba(0,0,0,0.80);
+  background-color: rgba(0,0,0,0.85);
 }
 
 /* Slide Text */
