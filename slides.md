@@ -47,43 +47,39 @@ addressed by Paul in 2Cor: **false apostles** (charlatans).
 
 ## 2 Corinthians 11:18-21a (NIV)
 
-Since many are **boasting** in the way the world does, <br/>
-**I too** will boast. 
-
-You gladly **put up** with fools since you are so **wise**! 
-
-In fact, you even put up with anyone who **enslaves** you<br/>
-or **exploits** you or **takes advantage** of you<br/>
-or puts on **airs** or **slaps** you in the face. 
-
-To my shame I admit that we were too **weak** for that!
-
-----------------------------------------
-
-## 2 Corinthians 11:18-21a (NIV)
-
-<span class="fragment highlight-blue">
+<span class="fragment highlight-green" data-fragment-index="3">
 Since many are **boasting** in the way the world does, <br/>
 **I too** will boast.
 </span>
 
-<span class="fragment highlight-green">
-You gladly **put up** with fools since you are so **wise**! 
+<span class="fragment highlight-blue" data-fragment-index="2">
+You gladly **put up** with fools since you are so **wise**! <br/>
+</span>
+<span class="fragment blue" data-fragment-index="2">
+[Corinthians]
+</span>
 
+<span class="fragment highlight-blue" data-fragment-index="2">
 In fact, you even put up with anyone who **enslaves** you<br/>
 </span>
-<span class="fragment highlight-red">
+<span class="fragment highlight-red" data-fragment-index="1">
 or **exploits** you or **takes advantage** of you<br/>
-or puts on **airs** or **slaps** you in the face. 
+or puts on **airs** or **slaps** you in the face. <br/>
+</span>
+<span class="fragment red" data-fragment-index="1">
+[Charlatans]
 </span>
 
-<span class="fragment highlight-blue">
-To my shame I admit that we were too **weak** for that!
+<span class="fragment highlight-green" data-fragment-index="3">
+To my shame I admit that we were too **weak** for that! <br/>
+</span>
+<span class="fragment green" data-fragment-index="3">
+[Christ's servant]
 </span>
 
 ----------------------------------------
 
-## 1a. Charlatans (20)
+## 1a. They: Charlatans (20)
 
 * "**Enslaves**"
 * "**Exploits**" *(eat, swallow)*
@@ -101,7 +97,7 @@ To my shame I admit that we were too **weak** for that!
 
 ----------------------------------------
 
-## 1b. You (Corinthians) (19)
+## 1b. You: Corinthians (19)
 
 * "You are so **wise**!":
   + Priding yourself on your good judgment
@@ -118,7 +114,7 @@ To my shame I admit that we were too **weak** for that!
 
 ----------------------------------------
 
-## 1c. I (Paul) (18, 21a)
+## 1c. I: Christ's servant (18, 21a)
 
 * "To my **shame**" *(dishonour)*:
   + With irony; the Corinthians were ashamed of Paul
