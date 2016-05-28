@@ -167,15 +167,17 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 <div class="imgbox">
 <div>
-* "To my **shame**": (irony!)
-* "We were too **weak**": c.f. v23-28
-* "Boasting [as] the **world** does":
-  + According to **flesh**
-* "**I too** will boast":
-  + But not in the same way: he boasts about **weakness**!
+* "To my **shame**" (irony!)
+* "We were too **weak**"
+  + c.f. v23-28
+* "Boasting [as] the **world**"
+  + according to **flesh**
+* "**I too** will boast"
+  + but not in the same way
+  + boasts of **weakness**!
 
 </div>
-<div>[![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)](https://commons.wikimedia.org/wiki/File:Saint_Paul,_Rembrandt_van_Rijn_(and_Workshop%3F),_c._1657.jpg)</div>
+<div>![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)</div>
 </div>
 
 >>>
