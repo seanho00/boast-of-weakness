@@ -284,11 +284,11 @@ Are they **Abraham’s descendants**? So am I.
 ## 2. Credentials
 
 * Paul **matches** the charlatans' credentials:
-* "Hebrews": **nationality**
+* "<span style="color:#1b91ff">Hebrews</span>": **nationality**
   + Preserve language / culture
-* "Israelites": **theocracy**
+* "<span style="color:#1b91ff">Israelites</span>": **theocracy**
   + Preserve covenant with God
-* "Abraham's descendants": **Messianic right**
+* "<span style="color:#1b91ff">Abraham's descendants</span>": **Messianic right**
   + Preserve hope of eternal inheritance
 
 >>>
