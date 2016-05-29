@@ -579,7 +579,7 @@ Therefore, as it is written: <br/>
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: Do you draw others <br/> to Christ through <br/> your **success** <br/> or your **frailty**?
+# Q: Do you draw others <br/> to Christ through <br/> your **success**, <br/> or your **frailty**?
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -621,7 +621,8 @@ I will boast of the things that show my **weakness**.
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-FKBg2JNYFFc-kid-rain.jpg" -->
 
-## Do I not inwardly burn?
+Who is led into **sin**, <br/>
+and I do not inwardly **burn**?
 
 >>>
 kid throwing tantrums, deliberate destruction
@@ -684,7 +685,6 @@ Even Jesus was weak!
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
-
 >>>
 + boasting in Corinthians not foolish
   + 12:6 speak truth
