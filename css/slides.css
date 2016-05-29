@@ -8,6 +8,14 @@
 section[data-background-image] {
   background-color: rgba(0,0,0,0.85);
 }
+@media print {
+  section.empty[data-background-image] .slide-background {
+    background-color: none;
+  }
+}
+section.empty[data-background-image] {
+  background-color: none;
+}
 
 /* Slide Text */
 .reveal section strong {
