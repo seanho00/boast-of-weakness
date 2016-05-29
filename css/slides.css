@@ -10,11 +10,11 @@ section[data-background-image] {
 }
 @media print {
   section.empty[data-background-image] .slide-background {
-    background-color: none;
+    background-color: rgba(0,0,0,0);
   }
 }
 section.empty[data-background-image] {
-  background-color: none;
+  background-color: rgba(0,0,0,0);
 }
 
 /* Slide Text */

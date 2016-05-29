@@ -372,15 +372,21 @@ Paul knows boasting is foolishness
 ----------------------------------------
 <!-- .slide: data-background-image="img/Majestic-Stallion.jpg" -->
 
-## Philippians 3:4b-7 (NIV)
+## Philippians 3:4b-5 (NIV)
 
 If someone else thinks they have reasons <br/>
 to put **confidence** in the flesh, I have **more**:
 
 **circumcised** on the eighth day, of the people of **Israel**, <br/>
 of the **tribe** of Benjamin, a **Hebrew** of Hebrews; <br/>
-in regard to the **law**, a Pharisee; <br/>
-as for **zeal**, persecuting the church; <br/>
+in regard to the **law**, a Pharisee; ...
+
+----------------------------------------
+<!-- .slide: data-background-image="img/Majestic-Stallion.jpg" -->
+
+## Philippians 3:6-7 (NIV)
+
+... as for **zeal**, persecuting the church; <br/>
 as for **righteousness** based on the law, faultless.
 
 But whatever were **gains** to me <br/>
@@ -502,9 +508,15 @@ I have been constantly on the **move**.
 ## Danger of Death 11:26 (NIV)
 
 I have been in danger from **rivers**, in danger from **bandits**, <br/>
-in danger from my fellow **Jews**, in danger from **Gentiles**; <br/>
+in danger from my fellow **Jews**, in danger from **Gentiles**;
+
 in danger in the **city**, in danger in the **country**, <br/>
 in danger at **sea**; and in danger from **false believers**.
+
+>>>
++ Not for **guilt-trip**, thanks, or admiration
+  + Approval comes from **God** (10:18), not man
+  + **Normal** Christian life
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
@@ -518,9 +530,6 @@ and have often gone without **food**; <br/>
 I have been **cold** and **naked**. 
 
 >>>
-+ Not for **guilt-trip**, thanks, or admiration
-  + Approval comes from **God** (10:18), not man
-  + **Normal** Christian life
 + Not typical Chinese **whining**:
   + Not sufferings overcome by **own** strength
 + But own **frailty**, inability to overcome
@@ -619,10 +628,6 @@ I will boast of the things that show my **weakness**.
 
 >>>
 + weak: 1Cor12:25-26 parts of body
-+ sin (stumble, offense):
-  + Mk14:27, Ro9:32-33 offense at Christ
-+ burn: consumed w/emotion
-  + (1Cor7:9 w/passion)
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-FKBg2JNYFFc-kid-rain.jpg" -->
@@ -631,7 +636,11 @@ Who is led into **sin**, <br/>
 and I do not inwardly **burn**?
 
 >>>
-kid throwing tantrums, deliberate destruction
++ sin (stumble, offense):
+  + Mk14:27, Ro9:32-33 offense at Christ
++ burn: consumed w/emotion
+  + (1Cor7:9 w/passion)
++ kid throwing tantrums, deliberate destruction
 + can force him to be disciplined
   + but can't force him to repent
 + feel powerless, indignant
@@ -645,6 +654,10 @@ For I resolved to know **nothing** while I was with you <br/>
 except **Jesus Christ** and him **crucified**. 
 
 I came to you in **weakness** with great **fear** and trembling. 
+
+>>>
+Beginning of our series on 1+2 Cor:
++ focus not on the preacher but on Jesus
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -667,7 +680,6 @@ but on **God’s power**.
 
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
-
 
 # Q: What are you <br/> most **proud** of?
 # Why?
