@@ -499,22 +499,23 @@ I have been constantly on the **move**.
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 
-## Danger and Toil 11:26-27 (NIV)
+## Danger of Death 11:26 (NIV)
 
-<span class="fragment highlight-green" data-fragment-index="1">
 I have been in danger from **rivers**, in danger from **bandits**, <br/>
 in danger from my fellow **Jews**, in danger from **Gentiles**; <br/>
 in danger in the **city**, in danger in the **country**, <br/>
 in danger at **sea**; and in danger from **false believers**.
-</span>
 
-<span class="fragment highlight-blue" data-fragment-index="2">
+----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
+
+## Toil 11:27 (NIV)
+
 I have **labored** and **toiled** <br/>
 and have often gone without **sleep**; <br/>
 I have known **hunger** and **thirst** <br/>
 and have often gone without **food**; <br/>
 I have been **cold** and **naked**. 
-</span>
 
 >>>
 + Not for **guilt-trip**, thanks, or admiration
@@ -548,12 +549,17 @@ I have been **cold** and **naked**.
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
 
-## 1 Corinthians 1:26-29 (NIV)
+## 1 Corinthians 1:26-27 (NIV)
 God chose the **foolish** things of the world <br/>
-to shame the **wise**; <br/>
+to shame the **wise**;
+
 God chose the **weak** things of the world <br/>
 to shame the strong.
 
+----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
+
+## 1 Corinthians 1:28-29 (NIV)
 God chose the **lowly** things of this world <br/>
 and the **despised** things -- <br/>
 and the things that are **not** -- <br/>
@@ -634,12 +640,16 @@ kid throwing tantrums, deliberate destruction
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
 
-## 1 Corinthians 2:2-5 (NIV)
+## 1 Corinthians 2:2-3 (NIV)
 For I resolved to know **nothing** while I was with you <br/>
 except **Jesus Christ** and him **crucified**. 
 
 I came to you in **weakness** with great **fear** and trembling. 
 
+----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
+
+## 1 Corinthians 2:4-5 (NIV)
 My message and my preaching were <br/>
 not with wise and **persuasive words**, <br/>
 but with a demonstration of the **Spirit’s power**, 
@@ -684,7 +694,7 @@ Even Jesus was weak!
 + But raised by God's power
 
 ----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: class="empty" data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 >>>
 + boasting in Corinthians not foolish
   + 12:6 speak truth
