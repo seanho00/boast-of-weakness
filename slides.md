@@ -18,6 +18,10 @@
 # Q: What are you <br/> most **proud** of?
 # Why?
 
+>>>
+In life, where you are right now
+Treasure, most prized, boast
+
 ----------------------------------------
 
 ## Threat of the Charlatans
@@ -51,9 +55,9 @@ addressed by Paul in 2Cor: **boastful false apostles**.
   **Measured** by God's canon
 
 >>>
-Pastor Arthur's sermon from two weeks ago:
-* missions focus, armor of God
-* letters weighty || in person unimpressive
++ missions focus, armor of God
++ letters weighty
+  + in person unimpressive
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
@@ -69,7 +73,6 @@ Pastor Arthur's sermon from two weeks ago:
   **masquerading** as apostles
 
 >>>
-Pastor Phil's sermon from last week:
 get away from personality cults / celebrities,
 get back to a simple devotion to Christ
 
@@ -90,7 +93,9 @@ get back to a simple devotion to Christ
   As **parents** for their own children
 
 >>>
-Brother Sunday next week
+When we become puffed up,
+God humbles us to
+Teach us to rely on His grace
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -152,6 +157,9 @@ To my shame I admit that we were too **weak** for that! <br/>
 [We: Christ's servants]
 </span>
 
+>>>
+They, You, We
+
 ----------------------------------------
 
 ## 1a. They: Charlatans (20)
@@ -181,7 +189,7 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 1. to legalism, human authority
 2. consume resources/money (cf widows)
-3. capture in net, trick (12:16)
+3. capture in net, trick
 4. elevates self
 5. deride, insult, humiliate
 
@@ -201,10 +209,10 @@ To my shame I admit that we were too **weak** for that! <br/>
 </div>
 
 >>>
-1. Priding yourself on your good judgment
-2. Endure, accept, fail to censure: inaction
+1. Proud of own judgment
+2. Endure, fail to censure: inaction
   + Jam4:16-17, boast in arrogance; does not do the right
-3. Delight in this acceptance
+3. Delight
   + See doctrinal liberality as a virtue
   + Everyone has a voice
 * (img: Buddha, 1st c. AD, Tokyo National Museum)
@@ -230,11 +238,11 @@ To my shame I admit that we were too **weak** for that! <br/>
 
 >>>
 1. Dishonour: Corinthians ashamed of Paul
-2. Alluding to the content of his boast
+2. Content of boast
 3. Corinthians were **impressed** by the boasting
-* Paul is not **stooping** to their level, but
-  + **Deflating** their claims, in order to
-  + Bring the Corinthians back to **simple devotion** to Christ
+* Not **stooping** to their level, but
+  + **Deflating** their claims
+  + Bring Corinthians back to **simple devotion**
 
 ----------------------------------------
 
@@ -266,16 +274,16 @@ To my shame I admit that we were too **weak** for that! <br/>
 </span>
 
 >>>
-+ Review pt1:
-  + They proudly **abuse** you
-  + You **endure** it and even delight in your liberality
-  + We will **deflate** the illusion
-    + our boast is our **weakness**
+Review pt1:
++ They proudly **abuse** you
++ You **endure** it and even delight in your liberality
++ We **deflate** the illusion
+  + boast in our **weakness**
 + personality cult: drawn to powerful people
-  + e.g., Jobs
-  + e.g., mom+son following me
-  + 1Cor1:12-13 Paul, Apollo, etc.
-  + e.g., JMS
+  + Jobs
+  + 1Cor1:12-13 Paul, Apollo
+  + mom+son follow me
+  + JMS
 
 ----------------------------------------
 
@@ -294,7 +302,7 @@ For further reading:
 >>>
 Jung Myung Seok (Joshua)
 + splinter from Unification church ("Moonies")
-+ numerology arguing as Messiah
++ numerology: Messiah
 + "always smile": life is good, hardship is only mental
 + Love Principle: Eve fell due to sex; women redeemed via sex w/JMS
   + in jail in Korea since 2009, 3 counts rape (100s of accusations)
@@ -303,7 +311,10 @@ Jung Myung Seok (Joshua)
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: Are you **passive** <br/> when you see <br/> **false teachers**?
+# Q: Are you **passive** <br/> when you hear <br/> **false teachers**?
+
+>>>
+**Pride** in own achievements should be a red flag
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -315,6 +326,10 @@ Jung Myung Seok (Joshua)
   <span style="color:#1b91ff">(v21b-22)</span>
 3. *Crises* (v23-27)
 4. *Concern* (v28-30)
+
+>>>
+Paul starts his "undertaking of boasting" (17)
+by **matching**, and hence **deflating**, their credentials
 
 ----------------------------------------
 
@@ -332,9 +347,10 @@ Are they **Abraham’s descendants**? So am I.
 
 >>>
 *dare*: bold, brash, unashamed
-+ Paul knows boasting is foolishness
-  + 12:1 no profit
-  + 11:16 don't deem him to be a fool
+
+Paul knows boasting is foolishness
++ 12:1 no profit
++ 11:16 deem him not a fool
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/Moyse-Le_grand_Sanhedrin.jpg" -->
@@ -401,6 +417,12 @@ v8: count as rubbish (skubalon): horse poop!
 # teachers because of
 # their **credentials**?
 
+>>>
+Referrals, seminary, mentor
+
+Hard work != righteousness
+Ph.D.only means persistence
+
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
@@ -412,6 +434,13 @@ v8: count as rubbish (skubalon): horse poop!
   <span style="color:#1b91ff">(v23-27)</span>
 4. *Concern* (v28-30)
 
+>>>
+The bulk of Paul's boast is of sufferings
+experienced in serving Christ.
+
+Not his strength to overcome,
+but God's power when he was overwhelmed
+
 ----------------------------------------
 
 ## Crises 11:23 (NIV)
@@ -422,7 +451,7 @@ Are they **servants** of Christ? <br/>
 <span class="fragment highlight-blue" data-fragment-index="3">
 I have **worked** much harder,
 </span>
-<span class="fragment highlight-current-blue" data-fragment-index="3">
+<span class="fragment" style="color:#1b91ff" data-fragment-index="3">
 [Toil, v27]
 </span>
 
@@ -430,15 +459,15 @@ I have **worked** much harder,
 been in **prison** more frequently, <br/>
 been **flogged** more severely,
 </span>
-<span class="fragment highlight-current-red" data-fragment-index="1">
+<span class="fragment" style="color:#17ff2e" data-fragment-index="1">
 [Beatings, v24-25]
 </span>
 
 <span class="fragment highlight-green" data-fragment-index="2">
 and been exposed to **death** again and again. 
 </span>
-<span class="fragment highlight-current-green" data-fragment-index="2">
-[Danger of Death, v26]
+<span class="fragment" style="color:#ff2c2d" data-fragment-index="2">
+<br/>[Danger of Death, v26]</span>
 
 >>>
 + **Exceeds** the charlatans
@@ -492,7 +521,7 @@ I have been **cold** and **naked**.
 + Not for **guilt-trip**, thanks, or admiration
   + Approval comes from **God** (10:18), not man
   + **Normal** Christian life
-+ Different from typical Chinese **whining**:
++ Not typical Chinese **whining**:
   + Not sufferings overcome by **own** strength
 + But own **frailty**, inability to overcome
   + Glory goes to **God**, not self
