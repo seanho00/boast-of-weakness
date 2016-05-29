@@ -15,7 +15,7 @@
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: What are you most *proud* of?
+# Q: What are you <br/> most **proud** of?
 # Why?
 
 ----------------------------------------
@@ -629,7 +629,8 @@ but on **God’s power**.
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: What are you most *proud* of?
+
+# Q: What are you <br/> most **proud** of?
 # Why?
 
 >>>
@@ -653,7 +654,10 @@ yet by **God’s power** we will live with him
 Even Jesus was weak!
 + But raised by God's power
 
---
+----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+
+>>>
 + boasting in Corinthians not foolish
   + 12:6 speak truth
   + 10:14 reach Corinthians
