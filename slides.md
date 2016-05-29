@@ -19,7 +19,7 @@
 # Why?
 
 >>>
-In life, where you are right now
+In life, where you are right now <br/>
 Treasure, most prized, boast
 
 ----------------------------------------
@@ -38,8 +38,8 @@ Treasure, most prized, boast
   As **Parents** for Their Own Children
 
 >>>
-High-level outline of ch10-12, the last major threat to the church
-addressed by Paul in 2Cor: **boastful false apostles**.
+ch10-12, the last major threat to the church
+in 2Cor: **boastful false apostles**.
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/Rembrandt_Man_in_Armour.jpg" -->
@@ -73,8 +73,8 @@ addressed by Paul in 2Cor: **boastful false apostles**.
   **masquerading** as apostles
 
 >>>
-get away from personality cults / celebrities,
-get back to a simple devotion to Christ
+Not: personality cults / celebrities <br/>
+Back to: simple devotion to Christ
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -93,8 +93,8 @@ get back to a simple devotion to Christ
   As **parents** for their own children
 
 >>>
-When we become puffed up,
-God humbles us to
+When we become puffed up, <br/>
+God humbles us to <br/>
 Teach us to rely on His grace
 
 ----------------------------------------
@@ -210,10 +210,10 @@ They, You, We
 
 >>>
 1. Proud of own judgment
-2. Endure, fail to censure: inaction
-  + Jam4:16-17, boast in arrogance; does not do the right
+2. Endure, accept: inaction
+  + Jam4:16-17, boast in arrogance; not do right
 3. Delight
-  + See doctrinal liberality as a virtue
+  + Doctrinal liberality as virtue
   + Everyone has a voice
 * (img: Buddha, 1st c. AD, Tokyo National Museum)
 
@@ -346,8 +346,7 @@ Are they **Abraham’s descendants**? So am I.
 <!-- .element: class="fragment-highlight-green" -->
 
 >>>
-*dare*: bold, brash, unashamed
-
+*dare*: bold, brash, unashamed <br/>
 Paul knows boasting is foolishness
 + 12:1 no profit
 + 11:16 deem him not a fool
@@ -459,14 +458,14 @@ I have **worked** much harder,
 been in **prison** more frequently, <br/>
 been **flogged** more severely,
 </span>
-<span class="fragment" style="color:#17ff2e" data-fragment-index="1">
+<span class="fragment" style="color:#ff2c2d" data-fragment-index="1">
 [Beatings, v24-25]
 </span>
 
 <span class="fragment highlight-green" data-fragment-index="2">
 and been exposed to **death** again and again. 
 </span>
-<span class="fragment" style="color:#ff2c2d" data-fragment-index="2">
+<span class="fragment" style="color:#17ff2e" data-fragment-index="2">
 <br/>[Danger of Death, v26]</span>
 
 >>>
