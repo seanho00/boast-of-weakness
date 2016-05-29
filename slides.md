@@ -13,6 +13,12 @@
 29 May 2016, ECBC English and Bridge
 
 ----------------------------------------
+<!-- .slide: class="Q" data-background="white" -->
+
+# Q: What are you most *proud* of?
+# Why?
+
+----------------------------------------
 
 ## Threat of the Charlatans
 * <span style="color:#1b91ff">ch10:</span>
@@ -597,7 +603,7 @@ kid throwing tantrums, deliberate destruction
   + most of all, hurt for him
 
 ----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
 
 ## 1 Corinthians 2:2-5 (NIV)
 For I resolved to know **nothing** while I was with you <br/>
@@ -623,10 +629,18 @@ but on **God’s power**.
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q: 
+# Q: What are you most *proud* of?
+# Why?
+
+>>>
+Kids? Mentorship? Church ministry? "Having it all"?
++ Are you proud because of **God's** power,
+  + or your **own**?
++ Paul boasted in his own **weakness**
+  + what about **you**?
 
 ----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 ## 2 Corinthians 13:4 (NIV)
 For [Christ] was **crucified** in weakness, <br/>
@@ -636,6 +650,10 @@ Likewise, we are **weak** in him, <br/>
 yet by **God’s power** we will live with him
 
 >>>
+Even Jesus was weak!
++ But raised by God's power
+
+--
 + boasting in Corinthians not foolish
   + 12:6 speak truth
   + 10:14 reach Corinthians
