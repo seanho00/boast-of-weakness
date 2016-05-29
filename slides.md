@@ -3,7 +3,7 @@
 # Boast of My Weakness
 ## II Corinthians 11:18-30
 [boast-of-weakness.seanho.com](http://boast-of-weakness.seanho.com/)
-
+<br/>
 <small>
 ([PDF 16:9](http://boast-of-weakness.seanho.com/boast-of-weakness-16_9.pdf),
 [4:3](http://boast-of-weakness.seanho.com/boast-of-weakness-4_3.pdf))
@@ -154,13 +154,17 @@ To my shame I admit that we were too **weak** for that! <br/>
 <div>
 
 * "**Enslaves**"
-  + e.g., to legalism, Gal4:9
+  + e.g., to legalism, 
+  [Gal4:9](https://mobile.biblegateway.com/passage/?search=Gal4.9)
 * "**Exploits**" *(eat, swallow)*
-  + c.f. Mk12:40
+  + c.f. 
+  [Mk12:40](https://mobile.biblegateway.com/passage/?search=Mk12.40)
 * "**Takes advantage**" *(take)*
-  + c.f. 2Cor12:16
+  + c.f. 
+  [2Cor12:16](https://mobile.biblegateway.com/passage/?search=2Cor12.16)
 * "**Puts on airs**" *(raise up)*
-  + c.f. 2Cor10:5
+  + c.f. 
+  [2Cor10:5](https://mobile.biblegateway.com/passage/?search=2Cor10.5)
 * "**Slaps in face**" *(strike)*
 
 </div>
@@ -261,7 +265,7 @@ To my shame I admit that we were too **weak** for that! <br/>
   + You **endure** it and even delight in your liberality
   + We will **deflate** the illusion
     + our boast is our **weakness**
-+ personality cult
++ personality cult: drawn to powerful people
   + e.g., Jobs
   + e.g., mom+son following me
   + 1Cor1:12-13 Paul, Apollo, etc.
@@ -412,18 +416,23 @@ Are they **servants** of Christ? <br/>
 <span class="fragment highlight-blue" data-fragment-index="3">
 I have **worked** much harder,
 </span>
-
-<span class="fragment highlight-red" data-fragment-index="1">
-been in **prison** more frequently,
+<span class="fragment highlight-current-blue" data-fragment-index="3">
+[Toil, v27]
 </span>
 
 <span class="fragment highlight-red" data-fragment-index="1">
+been in **prison** more frequently, <br/>
 been **flogged** more severely,
+</span>
+<span class="fragment highlight-current-red" data-fragment-index="1">
+[Beatings, v24-25]
 </span>
 
 <span class="fragment highlight-green" data-fragment-index="2">
 and been exposed to **death** again and again. 
 </span>
+<span class="fragment highlight-current-green" data-fragment-index="2">
+[Danger of Death, v26]
 
 >>>
 + **Exceeds** the charlatans
@@ -474,9 +483,13 @@ I have been **cold** and **naked**.
 </span>
 
 >>>
-+ Not for guilt-trip, thanks, or admiration
-  + Approval comes from God (10:18), not man
-  + Normal Christian life
++ Not for **guilt-trip**, thanks, or admiration
+  + Approval comes from **God** (10:18), not man
+  + **Normal** Christian life
++ Different from typical Chinese **whining**:
+  + Not sufferings overcome by **own** strength
++ But own **frailty**, inability to overcome
+  + Glory goes to **God**, not self
 
 ----------------------------------------
 
@@ -488,15 +501,15 @@ I have been **cold** and **naked**.
 </div>
 
 >>>
-+ story passed through oral tradition, details lost
-+ Garo tribe, Assam region, NE India (E of Bangladesh)
-  + formerly head-hunters
-+ Welsh or English missionaries, at great personal cost
++ story passed through **oral** tradition, details lost
++ **Garo** tribe, Assam region, NE India (E of Bangladesh)
+  + formerly **head-hunters**
++ Welsh or English **missionaries**, at great personal cost
   + first family in village to come to Christ
 + two sons + wife slain before him, then he was killed
-+ put to music by Singh, travelling evangelist in India
-  + gospel of Christ, culture of India
-  + Yellow robe of the sadhu (ascetic holy man)
++ put to music by **Singh**, travelling evangelist in India
+  + gospel of Christ, **culture** of India
+  + Yellow robe of the **sadhu** (ascetic holy man)
 
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
@@ -514,12 +527,6 @@ to nullify the things that **are**,
 
 that **no one** may boast before him.
 
->>>
-+ Different from typical Chinese whining:
-+ Not sufferings overcome by **own** strength
-+ But own **frailty**, inability to overcome
-  + Glory goes to **God**, not self
-
 ----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
 
@@ -530,6 +537,10 @@ that is, our **righteousness**, **holiness** and **redemption**.
 
 Therefore, as it is written: <br/>
 “Let the one who boasts **boast in the Lord**.”
+
+>>>
++ if we are strong, there's no **room** left
+  for God's work
 
 ----------------------------------------
 <!-- .slide: class="Q" data-background="white" -->
@@ -574,6 +585,18 @@ I will boast of the things that show my **weakness**.
   + (1Cor7:9 w/passion)
 
 ----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-FKBg2JNYFFc-kid-rain.jpg" -->
+
+## Do I not inwardly burn?
+
+>>>
+kid throwing tantrums, deliberate destruction
++ can force him to be disciplined
+  + but can't force him to repent
++ feel powerless, indignant
+  + most of all, hurt for him
+
+----------------------------------------
 <!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 ## 1 Corinthians 2:2-5 (NIV)
@@ -590,6 +613,29 @@ so that your faith might not rest on **human wisdom**, <br/>
 but on **God’s power**.
 
 >>>
++ pressure to have it all, do it all
+  + career, family, volunteer, church
+  + when people ask, "always smile!"
++ not about revelling in sin
+  + but ack we are not strong enough to fight it
++ not drawing people to ourselves but Christ
+
+----------------------------------------
+<!-- .slide: class="Q" data-background="white" -->
+
+# Q: 
+
+----------------------------------------
+<!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
+
+## 2 Corinthians 13:4 (NIV)
+For [Christ] was **crucified** in weakness, <br/>
+yet he **lives** by God’s power.
+
+Likewise, we are **weak** in him, <br/>
+yet by **God’s power** we will live with him
+
+>>>
 + boasting in Corinthians not foolish
   + 12:6 speak truth
   + 10:14 reach Corinthians
@@ -600,4 +646,3 @@ but on **God’s power**.
   + 2Co1:12-14 you are our boast
 + 2:2-5 boast only in cross: weakness
   + Gal6:14 only in cross
-
