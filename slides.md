@@ -182,7 +182,10 @@ They, You, We
 * "**Slaps in face**" *(strike)*
 
 </div>
-<div>![José de Madrazo, Jesús en casa de Anás](img/Madrazo-Jesus_in_Annas_House.jpg)</div>
+<div>
+![Madrazo, Jesus in House of Annas](img/Madrazo-Jesus_in_Annas_House.jpg)
+<br/><small>[José de Madrazo, Jesus in the House of Annas, 1803](https://www.museodelprado.es/en/the-collection/art-work/jesus-in-the-house-of-annas/)</small>
+</div>
 </div>
 
 >>>
@@ -205,7 +208,10 @@ They, You, We
   + failure to restrain
 * "**Gladly**": with pleasure, delight
 </div>
-<div>![Gandhara Buddha, Tokyo National Museum](img/Gandhara_Buddha.jpg)</div>
+<div>
+![Gandhara Buddha, Tokyo National Museum](img/Gandhara_Buddha.jpg)
+<br/><small>[Standing Buddha, Tokyo National Museum](https://en.wikipedia.org/wiki/Standing_Buddha)</small>
+</div>
 </div>
 
 >>>
@@ -232,9 +238,10 @@ They, You, We
   + but not in the same way
   + boasts of **weakness**!
 
-</div>
-<div>![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)</div>
-</div>
+</div><div>
+![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)
+<br/><small>[Rembrandt, Apostle Paul, 1657](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html)</small>
+</div></div>
 
 >>>
 1. Dishonour: Corinthians ashamed of Paul
@@ -540,8 +547,10 @@ I have been **cold** and **naked**.
 ## I Have Decided to Follow Jesus
 
 <div class="imgbox">
-<div>![map of Assam](img/assam.png)</div>
-<div>![Sadhu Sundar Singh](img/sadhu_sundar_singh.jpg)</div>
+<div>![map of Assam](img/assam.png)
+<br/><small>Assam region of India</small></div>
+<div>![Sadhu Sundar Singh](img/sadhu_sundar_singh.jpg)
+<br/><small>[Sadhu Sundar Singh](https://en.wikipedia.org/wiki/Sadhu_Sundar_Singh)</small></div>
 </div>
 
 >>>
