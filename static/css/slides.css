@@ -1,0 +1,82 @@
+/*********************************************
+ * Local styles specific to my presentations
+ *********************************************/
+
+/* Larger text */
+/*
+html { font-size: 3em }
+*/
+
+/* Override slide centering (interferes with print-pdf?) */
+@media screen {
+  section.top { top: 0 !important; }
+  section.bottom {
+    top: initial !important;
+    bottom: 0;
+  }
+}
+
+/* Line separator below H2 */
+.reveal section h2:after {
+  content: "";
+  display: block;
+  margin: auto;
+  width: 30%;
+  border-bottom: 1px solid;
+}
+/* Except on special reverse-color slides */
+.reveal section.has-light-background h2:after { display: none; }
+
+/* Larger font for Chinese */
+.reveal section .zh { font-size: larger }
+
+/* Flexbox layout for images */
+.imgbox {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+.imgbox > div { flex: 1 }
+
+/* Old-style CSS flex box for Phantom, #52 */
+@media print {
+  .imgbox {
+    display: -webkit-box;
+    -webkit-flex-flow: row;
+    -webkit-box-pack: center;
+  }
+  .imgbox > div {
+    -webkit-box-flex: 1;
+  }
+}
+
+/* Image captions */
+.reveal section .caption {
+  font-size: 0.45rem;
+  color: #aaa;
+}
+
+/* Common slide header/footer */
+#header, #footer {
+  position: absolute;
+  z-index: 20;
+  left: 0.5em;
+  font-size: 16px;
+}
+#header { top: 0.5em; }
+#footer { bottom: 0.5em; }
+
+#footer .links { margin: 0 1em }
+
+#footer .commit {
+  color: rgba(255, 255, 255, 0.1);
+  font-size: 0.75em;
+}
+
+/* Placeholder if Javascript is disabled */
+noscript .noscript {
+  padding: 20% 5%;
+  text-align: center;
+}

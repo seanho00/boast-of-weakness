@@ -1,2 +1,11 @@
-# boast-of-weakness
-Sermon on 2Cor11:18-30: Boast of My Weakness
+# Boast of My Weakness
+## 2 Corinthians 11:18-30
+
+[![Build status](https://travis-ci.org/sermons/boast-of-weakness.svg)](https://travis-ci.org/sermons/boast-of-weakness)
+[![Node deps](https://david-dm.org/sermons/boast-of-weakness.svg)](https://david-dm.org/sermons/boast-of-weakness)
+[![Node devDeps](https://david-dm.org/sermons/boast-of-weakness/dev-status.svg)](https://david-dm.org/sermons/boast-of-weakness#info=devDependencies)
+
+Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
+
+See [INSTALL.md](INSTALL.md)
+for how to make your own presentation.
