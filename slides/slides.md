@@ -1,20 +1,12 @@
-<!-- .slide: class="center" data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
-
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 # Boast of My Weakness
-## II Corinthians 11:18-30
-[boast-of-weakness.seanho.com](http://boast-of-weakness.seanho.com/)
-<br/>
-<small>
-([PDF 16:9](http://boast-of-weakness.seanho.com/boast-of-weakness-16_9.pdf),
-[4:3](http://boast-of-weakness.seanho.com/boast-of-weakness-4_3.pdf))
-</small>
+## 2 Corinthians 11:18-30
 
 >>>
 29 May 2016, ECBC English and Bridge
 
-----------------------------------------
-<!-- .slide: class="Q" data-background="white" -->
-
+---
+<!-- .slide: data-background="white" -->
 # Q: What are you <br/> most **proud** of?
 # Why?
 
@@ -22,8 +14,7 @@
 In life, where you are right now <br/>
 Treasure, most prized, boast
 
-----------------------------------------
-
+---
 ## Threat of the Charlatans
 * <span style="color:#1b91ff">ch10:</span>
   The Spiritual **Battleground**
@@ -41,9 +32,8 @@ Treasure, most prized, boast
 ch10-12, the last major threat to the church
 in 2Cor: **boastful false apostles**.
 
-----------------------------------------
-<!-- .slide: data-background-image="img/Rembrandt_Man_in_Armour.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt_Man_in_Armour.jpg" -->
 ## The Spiritual Battleground (2Cor10)
 * Pastor Arthur,
   "<span style="color:#1b91ff">Corinth and Beyond</span>"
@@ -59,9 +49,8 @@ in 2Cor: **boastful false apostles**.
 + letters weighty
   + in person unimpressive
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-NaWKMlp3tVs-bible.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
 ## Lost Your First Love (2Cor11a)
 * Pastor Phil,
   "<span style="color:#1b91ff">What Impresses You?</span>"
@@ -76,9 +65,8 @@ in 2Cor: **boastful false apostles**.
 Not: personality cults / celebrities <br/>
 Back to: simple devotion to Christ
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-8CwoHpZe3qE-hands.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 ## My Grace Is Sufficient (2Cor12)
 * Brother Sunday (next week)
 * <span style="color:#1b91ff">1-4:</span>
@@ -97,11 +85,9 @@ When we become puffed up, <br/>
 God humbles us to <br/>
 Teach us to rely on His grace
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## Boast of My Weakness (2Cor11b)
-
 1. **Charlatans**
   <span style="color:#1b91ff">(v18-21a)</span>
 2. **Credentials**
@@ -122,8 +108,7 @@ Outline for today
 4. Burden not only physical, also spiritual + emotional
   + Paul's concern as a father to his children
 
-----------------------------------------
-
+---
 ## 2 Corinthians 11:18-21a (NIV)
 
 <span class="fragment highlight-green" data-fragment-index="3">
@@ -160,8 +145,7 @@ To my shame I admit that we were too **weak** for that! <br/>
 >>>
 They, You, We
 
-----------------------------------------
-
+---
 ## 1a. They: Charlatans (20)
 
 <div class="imgbox">
@@ -183,23 +167,20 @@ They, You, We
 
 </div>
 <div>
-![Madrazo, Jesus in House of Annas](img/Madrazo-Jesus_in_Annas_House.jpg)
+![Madrazo, Jesus in House of Annas](https://sermons.seanho.com/img/fig/Madrazo-Jesus_in_Annas_House.jpg)
 <br/><small>[José de Madrazo, Jesus in the House of Annas, 1803](https://www.museodelprado.es/en/the-collection/art-work/jesus-in-the-house-of-annas/)</small>
 </div>
 </div>
 
 >>>
-
 1. to legalism, human authority
 2. consume resources/money (cf widows)
 3. capture in net, trick
 4. elevates self
 5. deride, insult, humiliate
 
-----------------------------------------
-
+---
 ## 1b. You: Corinthians (19)
-
 <div class="imgbox">
 <div>
 * "You are so **wise**!"
@@ -209,7 +190,7 @@ They, You, We
 * "**Gladly**": with pleasure, delight
 </div>
 <div>
-![Gandhara Buddha, Tokyo National Museum](img/Gandhara_Buddha.jpg)
+![Gandhara Buddha, Tokyo National Museum](https://sermons.seanho.com/img/fig/Gandhara_Buddha.jpg)
 <br/><small>[Standing Buddha, Tokyo National Museum](https://en.wikipedia.org/wiki/Standing_Buddha)</small>
 </div>
 </div>
@@ -223,8 +204,7 @@ They, You, We
   + Everyone has a voice
 * (img: Buddha, 1st c. AD, Tokyo National Museum)
 
-----------------------------------------
-
+---
 ## 1c. We: Christ's servants (18, 21a)
 
 <div class="imgbox">
@@ -239,7 +219,7 @@ They, You, We
   + boasts of **weakness**!
 
 </div><div>
-![Rembrandt, Apostle Paul](img/Rembrandt-Apostle_Paul.jpg)
+![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul.jpg)
 <br/><small>[Rembrandt, Apostle Paul, 1657](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html)</small>
 </div></div>
 
@@ -251,8 +231,7 @@ They, You, We
   + **Deflating** their claims
   + Bring Corinthians back to **simple devotion**
 
-----------------------------------------
-
+---
 ## 1. Charlatans (18-21a)
 
 <span style="color:#17ff2e">
@@ -292,8 +271,7 @@ Review pt1:
   + mom+son follow me
   + JMS
 
-----------------------------------------
-
+---
 ## Providence (JMS)
 
 <div class="imgbox">
@@ -303,7 +281,7 @@ For further reading:
 * [A Study of Denominations](http://www.astudyofdenominations.com/denominations/providence/)
 * [JMSCult](http://jmscult.com/)
 </div>
-<div>![JMS, from their own website](img/jungmyungseok.png)</div>
+<div>![JMS, from their own website](https://sermons.seanho.com/img/fig/jungmyungseok.png)</div>
 </div>
 
 >>>
@@ -315,17 +293,15 @@ Jung Myung Seok (Joshua)
   + in jail in Korea since 2009, 3 counts rape (100s of accusations)
   + "religious injustice", "persecuted Christians"
 
-----------------------------------------
-<!-- .slide: class="Q" data-background="white" -->
-
+---
+<!-- .slide: data-background="white" -->
 # Q: Are you **passive** <br/> when you hear <br/> **false teachers**?
 
 >>>
 **Pride** in own achievements should be a red flag
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## Boast of My Weakness (2Cor11b)
 
 1. *Charlatans* (v18-21a)
@@ -338,8 +314,7 @@ Jung Myung Seok (Joshua)
 Paul starts his "undertaking of boasting" (17)
 by **matching**, and hence **deflating**, their credentials
 
-----------------------------------------
-
+---
 ## 2 Corinthians 11:21b-22 (NIV)
 
 Whatever anyone else **dares** to boast about -- <br/>
@@ -358,9 +333,8 @@ Paul knows boasting is foolishness
 + 12:1 no profit
 + 11:16 deem him not a fool
 
-----------------------------------------
-<!-- .slide: data-background-image="img/Moyse-Le_grand_Sanhedrin.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 ## 2. Credentials
 
 * Paul **matches** the charlatans' credentials:
@@ -376,9 +350,8 @@ Paul knows boasting is foolishness
   + 12:11 no less, but also nothing
 + (Jam1:9-10 poor/rich boast in high/low)
 
-----------------------------------------
-<!-- .slide: data-background-image="img/Majestic-Stallion.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Majestic-Stallion.jpg" -->
 ## Philippians 3:4b-5 (NIV)
 
 If someone else thinks they have reasons <br/>
@@ -388,9 +361,8 @@ to put **confidence** in the flesh, I have **more**:
 of the **tribe** of Benjamin, a **Hebrew** of Hebrews; <br/>
 in regard to the **law**, a Pharisee; ...
 
-----------------------------------------
-<!-- .slide: data-background-image="img/Majestic-Stallion.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Majestic-Stallion.jpg" -->
 ## Philippians 3:6-7 (NIV)
 
 ... as for **zeal**, persecuting the church; <br/>
@@ -402,13 +374,12 @@ I now consider **loss** for the sake of Christ.
 >>>
 v8: count as rubbish (skubalon): horse poop!
 
-----------------------------------------
-
+---
 ## Dr. John Sung
 
 <div class="imgbox">
-<div>![John Sung](img/john_sung.jpg)</div>
-<div>![Bethel Evangelistic Band](img/john_sung-Bethel_Evangelistic_Band.jpg)</div>
+<div>![John Sung](https://sermons.seanho.com/img/fig/john_sung.jpg)</div>
+<div>![Bethel Evangelistic Band](https://sermons.seanho.com/img/fig/john_sung-Bethel_Evangelistic_Band.jpg)</div>
 </div>
 
 >>>
@@ -422,12 +393,9 @@ v8: count as rubbish (skubalon): horse poop!
 + cofounded Little Flock (Local Church) with Watchman Nee
   + with now has its own controversy
 
-----------------------------------------
-<!-- .slide: class="Q" data-background="white" -->
-
-# Q: Do you trust
-# teachers because of
-# their **credentials**?
+---
+<!-- .slide: data-background="white" -->
+# Q: Do you trust <br/> teachers because of <br/> their **credentials**?
 
 >>>
 Referrals, seminary, mentor
@@ -435,9 +403,8 @@ Referrals, seminary, mentor
 Hard work != righteousness
 Ph.D.only means persistence
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## Boast of My Weakness (2Cor11b)
 
 1. *Charlatans* (v18-21a)
@@ -453,8 +420,7 @@ experienced in serving Christ.
 Not his strength to overcome,
 but God's power when he was overwhelmed
 
-----------------------------------------
-
+---
 ## Crises 11:23 (NIV)
 
 Are they **servants** of Christ? <br/>
@@ -490,9 +456,8 @@ and been exposed to **death** again and again.
   + 26 Danger of death
   + 27 Toil
 
-----------------------------------------
-<!-- .slide: data-background-image="img/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
 ## Beatings 11:24-25 (NIV)
 
 **Five** times I received from the Jews <br/>
@@ -509,9 +474,8 @@ I have been constantly on the **move**.
 + Beatings and floggings
 + "Not what Paul has **done**, but what he has **bourne** (Robertson)
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Danger of Death 11:26 (NIV)
 
 I have been in danger from **rivers**, in danger from **bandits**, <br/>
@@ -525,9 +489,8 @@ in danger at **sea**; and in danger from **false believers**.
   + Approval comes from **God** (10:18), not man
   + **Normal** Christian life
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Toil 11:27 (NIV)
 
 I have **labored** and **toiled** <br/>
@@ -542,14 +505,13 @@ I have been **cold** and **naked**.
 + But own **frailty**, inability to overcome
   + Glory goes to **God**, not self
 
-----------------------------------------
-
+---
 ## I Have Decided to Follow Jesus
 
 <div class="imgbox">
-<div>![map of Assam](img/assam.png)
+<div>![map of Assam](https://sermons.seanho.com/img/fig/assam.png)
 <br/><small>Assam region of India</small></div>
-<div>![Sadhu Sundar Singh](img/sadhu_sundar_singh.jpg)
+<div>![Sadhu Sundar Singh](https://sermons.seanho.com/img/fig/sadhu_sundar_singh.jpg)
 <br/><small>[Sadhu Sundar Singh](https://en.wikipedia.org/wiki/Sadhu_Sundar_Singh)</small></div>
 </div>
 
@@ -564,9 +526,8 @@ I have been **cold** and **naked**.
   + gospel of Christ, **culture** of India
   + Yellow robe of the **sadhu** (ascetic holy man)
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 ## 1 Corinthians 1:26-27 (NIV)
 God chose the **foolish** things of the world <br/>
 to shame the **wise**;
@@ -574,9 +535,8 @@ to shame the **wise**;
 God chose the **weak** things of the world <br/>
 to shame the strong.
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 ## 1 Corinthians 1:28-29 (NIV)
 God chose the **lowly** things of this world <br/>
 and the **despised** things -- <br/>
@@ -585,9 +545,8 @@ to nullify the things that **are**,
 
 that **no one** may boast before him.
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-b8rkmfxZjdU-kids.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 ## 1 Corinthians 1:30-31 (NIV)
 It is because of him that you are in **Christ Jesus**, <br/>
 who has become for us **wisdom** from God -- <br/>
@@ -600,14 +559,12 @@ Therefore, as it is written: <br/>
 + if we are strong, there's no **room** left
   for God's work
 
-----------------------------------------
-<!-- .slide: class="Q" data-background="white" -->
-
+---
+<!-- .slide: data-background="white" -->
 # Q: Do you draw others <br/> to Christ through <br/> your **success**, <br/> or your **frailty**?
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-SrlmVWkVfJM-cross.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## Boast of My Weakness (2Cor11b)
 
 1. *Charlatans* (v18-21a)
@@ -616,8 +573,7 @@ Therefore, as it is written: <br/>
 4. **Concern**
   <span style="color:#1b91ff">(v28-30)</span>
 
-----------------------------------------
-
+---
 ## 2 Corinthians 11:28-30 (NIV)
 
 <span class="fragment highlight-green" data-fragment-index="1">
@@ -638,9 +594,8 @@ I will boast of the things that show my **weakness**.
 >>>
 + weak: 1Cor12:25-26 parts of body
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-FKBg2JNYFFc-kid-rain.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FKBg2JNYFFc-kid-rain.jpg" -->
 Who is led into **sin**, <br/>
 and I do not inwardly **burn**?
 
@@ -655,8 +610,8 @@ and I do not inwardly **burn**?
 + feel powerless, indignant
   + most of all, hurt for him
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 
 ## 1 Corinthians 2:2-3 (NIV)
 For I resolved to know **nothing** while I was with you <br/>
@@ -668,9 +623,8 @@ I came to you in **weakness** with great **fear** and trembling.
 Beginning of our series on 1+2 Cor:
 + focus not on the preacher but on Jesus
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-Jztmx9yqjBw-stars.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## 1 Corinthians 2:4-5 (NIV)
 My message and my preaching were <br/>
 not with wise and **persuasive words**, <br/>
@@ -687,9 +641,8 @@ but on **God’s power**.
   + but ack we are not strong enough to fight it
 + not drawing people to ourselves but Christ
 
-----------------------------------------
-<!-- .slide: class="Q" data-background="white" -->
-
+---
+<!-- .slide: data-background="white" -->
 # Q: What are you <br/> most **proud** of?
 # Why?
 
@@ -700,9 +653,8 @@ Kids? Mentorship? Church ministry? "Having it all"?
 + Paul boasted in his own **weakness**
   + what about **you**?
 
-----------------------------------------
-<!-- .slide: data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
-
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 ## 2 Corinthians 13:4 (NIV)
 For [Christ] was **crucified** in weakness, <br/>
 yet he **lives** by God’s power.
@@ -714,8 +666,8 @@ yet by **God’s power** we will live with him
 Even Jesus was weak!
 + But raised by God's power
 
-----------------------------------------
-<!-- .slide: class="empty" data-background-image="img/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+---
+<!-- .slide: class="empty" data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 >>>
 + boasting in Corinthians not foolish
   + 12:6 speak truth
