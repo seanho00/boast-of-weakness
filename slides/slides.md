@@ -595,7 +595,7 @@ I will boast of the things that show my **weakness**.
 + weak: 1Cor12:25-26 parts of body
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FKBg2JNYFFc-kid-rain.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FKBg2JNYFFc-kid_rain.jpg" -->
 Who is led into **sin**, <br/>
 and I do not inwardly **burn**?
 
@@ -654,7 +654,7 @@ Kids? Mentorship? Church ministry? "Having it all"?
   + what about **you**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 ## 2 Corinthians 13:4 (NIV)
 For [Christ] was **crucified** in weakness, <br/>
 yet he **lives** by God’s power.
@@ -667,7 +667,7 @@ Even Jesus was weak!
 + But raised by God's power
 
 ---
-<!-- .slide: class="empty" data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: class="empty" data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 >>>
 + boasting in Corinthians not foolish
   + 12:6 speak truth
