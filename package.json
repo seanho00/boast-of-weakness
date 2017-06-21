@@ -20,7 +20,8 @@
       {
         "venue": "Evangelical Chinese Bible Church",
         "city": "Burnaby",
-        "date": "2016-05-31"
+        "date": "2016-05-31",
+        "duration": 0
       }
     ],
     "slides": [ "slides/slides.md" ],
