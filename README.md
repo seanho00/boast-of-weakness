@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/boast-of-weakness.svg)](https://travis-ci.org/sermons/boast-of-weakness)
 [![Node deps](https://david-dm.org/sermons/boast-of-weakness.svg)](https://david-dm.org/sermons/boast-of-weakness)
-[![Node devDeps](https://david-dm.org/sermons/boast-of-weakness/dev-status.svg)](https://david-dm.org/sermons/boast-of-weakness#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/boast-of-weakness/dev-status.svg)](https://david-dm.org/sermons/boast-of-weakness?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
