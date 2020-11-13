@@ -516,6 +516,7 @@ I have been **cold** and **naked**.
 </div>
 
 >>>
++ [(further research)](https://www.umcdiscipleship.org/articles/history-of-hymns-i-have-decided-to-follow-jesus)
 + story passed through **oral** tradition, details lost
 + **Garo** tribe, Assam region, NE India (E of Bangladesh)
   + formerly **head-hunters**
